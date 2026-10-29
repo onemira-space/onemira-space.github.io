@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onemira-space.github.io/sitemap.xml
