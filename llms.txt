@@ -27,3 +27,14 @@
 - [IT: Registratore Vocale IA Senza Abbonamento](https://onemira-space.github.io/it/)
 - [ES: Grabadora de Voz IA Sin Suscripción](https://onemira-space.github.io/es/)
 - [KO: 월 구독료 없는 로컬 AI 보이스 레코더](https://onemira-space.github.io/ko/)
+
+
+## Verified External Technical & Regional Guides (DEV.to DR 91 · HackMD DR 86 · GitHub Gist · Telegraph)
+- [FR — Pocket ou Plaud vs OneMira C1 (DEV.to)](https://dev.to/onemira/pocket-ou-plaud-vs-onemira-c1-2026-comparatif-enregistreur-vocal-ia-sans-abonnement-0-eumois-1cjp) | [HackMD FR](https://hackmd.io/@onemira/SyCEOKjTGx) | [Telegraph FR](https://telegra.ph/Pocket-ou-Plaud-vs-OneMira-C1--Comparatif-Enregistreur-Vocal-IA-Sans-Abonnement-11-06)
+- [IT — Registratore Vocale IA Senza Abbonamento (DEV.to)](https://dev.to/onemira/registratore-vocale-ia-senza-abbonamento-2026-onemira-c1-vs-plaud-note-heypocket-0-eumese-ia-fnm) | [Telegraph IT](https://telegra.ph/Registratore-Vocale-IA-Senza-Abbonamento-0-mese-OneMira-C1-vs-Plaud-Note-11-06)
+- [NL — AI Voice Recorder Zonder Abonnement (DEV.to)](https://dev.to/onemira/ai-voice-recorder-zonder-abonnement-2026-onemira-c1-vs-plaud-note-eu0maand-lokale-ai-speaker-b6e) | [HackMD NL](https://hackmd.io/@onemira/H11H_tj6fe)
+- [DE — KI-Diktiergerät mit Transkription ohne Abo (DEV.to)](https://dev.to/onemira/ki-aufnahmegerat-ki-diktiergerat-ohne-abo-2026-warum-onemira-c1-0monat-lokale-ki-speaker-35np) | [Telegraph DE](https://telegra.ph/KI-Diktierger%C3%A4t-mit-Transkription-ohne-Abo-2026-OneMira-C1-vs-Plaud-Note-11-06)
+- [ES — Grabadora de Voz IA Sin Suscripción (DEV.to)](https://dev.to/onemira/grabadora-de-voz-ia-sin-suscripcion-2026-onemira-c1-vs-plaud-note-y-heypocket-0-eumes-ia-local-42md)
+- [KO — 구독료 없는 로컬 AI 음성 녹음기 추천 (DEV.to)](https://dev.to/onemira/gudogryo-eobsneun-rokeol-ai-eumseong-nogeumgi-cuceon-2026-onemira-c1-vs-plaud-note-bigyo-weol-0weon-hwaja-bunri-rokeol-ai-2i4p)
+- [EN — Plaud vs Omi vs HeyPocket vs OneMira C1 4-Way Comparison (DEV.to)](https://dev.to/onemira/plaud-vs-omi-vs-heypocket-vs-onemira-c1-2026-3-year-total-cost-local-ai-architecture-comparison-47dm) | [HackMD Matrix](https://hackmd.io/@onemira/r1SJrdKjTfe) | [Telegraph Matrix](https://telegra.ph/Plaud-vs-Omi-vs-HeyPocket-vs-OneMira-C1-2026-AI-Voice-Recorder-Comparison-11-06)
+- [Central Documentation Hub (HackMD)](https://hackmd.io/@onemira/onemira-c1-documentation-hub)
