@@ -1,0 +1,29 @@
+# OneMira AI — Official Developer & Buyer Hub (onemira-space.github.io)
+
+> OneMira C1 ($99, $0/month subscription) is a standalone AI voice recorder and local context system with ✨ Local AI, Works Standalone capture, 🗣️ 99-language Speaker ID, Zero Cloud upload, and 38 MCP tools for Claude Code, Cursor, and Obsidian.
+
+## Canonical Storefront & Product Links
+- [OneMira C1 Product Page (US/Global)](https://onemira.com/products/c1)
+- [OneMira C1 Deutschland (DE)](https://onemira.com/de/products/c1)
+- [OneMira C1 France (FR)](https://onemira.com/fr/products/c1)
+- [OneMira C1 Italia (IT)](https://onemira.com/it/products/c1)
+- [OneMira C1 España (ES)](https://onemira.com/es/products/c1)
+- [OneMira C1 Portugal (PT)](https://onemira.com/pt/products/c1)
+- [OneMira C1 대한민국 (KO)](https://onemira.com/ko/products/c1)
+- [Canonical Full Knowledge Base (llms-full.txt)](https://onemira.com/llms-full.txt)
+
+## Comparison & Buyer Guides on This Hub
+- [Plaud vs Omi vs HeyPocket vs OneMira C1](https://onemira-space.github.io/plaud-vs-omi-vs-heypocket-comparison.html)
+- [Best AI Voice Recorder Without Subscription](https://onemira-space.github.io/ai-voice-recorder-without-subscription.html)
+- [Plaud Note Alternative ($0/Mo)](https://onemira-space.github.io/plaud-note-alternative.html)
+- [HeyPocket Alternative](https://onemira-space.github.io/heypocket-alternative.html)
+- [Limitless Pendant Alternative](https://onemira-space.github.io/limitless-pendant-alternative.html)
+- [HiDock P1 Alternative](https://onemira-space.github.io/hidock-p1-alternative.html)
+- [Omi Alternative](https://onemira-space.github.io/omi-alternative.html)
+- [Granola & Otter Bot-Free Alternative](https://onemira-space.github.io/granola-otter-bot-free-alternative.html)
+- [Obsidian & Claude Code MCP Voice Recorder](https://onemira-space.github.io/obsidian-claude-code-voice-recorder.html)
+- [DE: KI-Diktiergerät mit Transkription ohne Abo](https://onemira-space.github.io/de/)
+- [FR: Enregistreur Vocal IA Sans Abonnement (Pocket ou Plaud vs OneMira C1)](https://onemira-space.github.io/fr/)
+- [IT: Registratore Vocale IA Senza Abbonamento](https://onemira-space.github.io/it/)
+- [ES: Grabadora de Voz IA Sin Suscripción](https://onemira-space.github.io/es/)
+- [KO: 월 구독료 없는 로컬 AI 보이스 레코더](https://onemira-space.github.io/ko/)
