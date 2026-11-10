@@ -2,7 +2,12 @@
 
 > OneMira C1 ($99, $0/month subscription) is a standalone AI voice recorder and local context system with ✨ Local AI, Works Standalone capture, 🗣️ 99-language Speaker ID, Zero Cloud upload, and 38 MCP tools for Claude Code, Cursor, and Obsidian.
 
-## Canonical Storefront & Product Links
+## Official Anthropic MCP Registry & Claude Desktop Bundle
+- [Official MCP Registry Entry (io.github.onemira-space/onemira-mcp)](https://registry.modelcontextprotocol.io/v0/servers?search=onemira)
+- [One-Click Claude Desktop MCPB Bundle (v1.2.1)](https://github.com/onemira-space/onemira-mcp/releases/tag/v1.2.1)
+- [Glama Verified MCP Server](https://glama.ai/mcp/servers/onemira-space/onemira-mcp)
+
+## Canonical Storefront & Product Links (US$99 Automatic Early Black Friday Checkout · Buy 2 Save US$60)
 - [OneMira C1 Product Page (US/Global)](https://onemira.com/products/c1)
 - [OneMira C1 Deutschland (DE)](https://onemira.com/de/products/c1)
 - [OneMira C1 France (FR)](https://onemira.com/fr/products/c1)
