@@ -1,0 +1,143 @@
+{
+  "dataset": "AI Voice Recorder Without Subscription — 2026 10-Device Pricing, Free-Tier Caps, Local AI & MCP Benchmark",
+  "version": "2026.11.11",
+  "license": "CC-BY-4.0",
+  "publisher": {
+    "name": "OneMira AI",
+    "url": "https://onemira.com",
+    "mcp_registry": "https://registry.modelcontextprotocol.io/v0/servers/io.github.onemira-space%2Fonemira-mcp/versions/latest"
+  },
+  "canonical_guide": "https://onemira.com/ai-voice-recorder-without-subscription",
+  "records": [
+    {
+      "device": "OneMira C1",
+      "vendor": "OneMira",
+      "upfront_price_usd": "99.00 (promo; 129.00 regular)",
+      "included_free_tier": "Unlimited local ASR (99 languages) + built-in offline Local AI summaries, decisions, action items & mind maps ($0/mo)",
+      "optional_paid_plan_usd_yr": "0.00 (no OneMira subscription; optional BYOK API keys)",
+      "three_year_reference_tco_usd": "99.00",
+      "processing_location": "Local on Mac (macOS 12+) & Windows (10/11 64-bit); standalone 32 GB hardware capture",
+      "speaker_diarization": "Included locally ($0/mo, 99 languages)",
+      "headphone_call_capture": "Supported without meeting bots (Mac macOS 14.2+ Core Audio & Windows)",
+      "local_markdown_and_mcp": "Native local Google OKF Markdown (.md) Wiki + Official Anthropic MCP Registry (io.github.onemira-space/onemira-mcp v1.2.1) + Mira CLI + optional .WAV retention",
+      "comparison_url": "https://onemira.com/products/c1"
+    },
+    {
+      "device": "Plaud Note",
+      "vendor": "Plaud",
+      "upfront_price_usd": "159.00",
+      "included_free_tier": "Starter: 300 cloud transcription minutes/month",
+      "optional_paid_plan_usd_yr": "99.99 (Pro: 1,200 min/mo) or 239.99 (Unlimited)",
+      "three_year_reference_tco_usd": "159.00 (Starter) to 458.97 (Pro) / 878.97 (Unlimited)",
+      "processing_location": "Cloud app & Plaud Desktop",
+      "speaker_diarization": "Cloud app / plan-dependent",
+      "headphone_call_capture": "Supported via Plaud Desktop / phone conduction",
+      "local_markdown_and_mcp": "Cloud app export + Plaud cloud MCP/CLI",
+      "comparison_url": "https://onemira.com/compare/plaud-note"
+    },
+    {
+      "device": "Plaud Note Pro",
+      "vendor": "Plaud",
+      "upfront_price_usd": "179.00",
+      "included_free_tier": "Starter: 300 cloud transcription minutes/month",
+      "optional_paid_plan_usd_yr": "99.99 (Pro: 1,200 min/mo) or 239.99 (Unlimited)",
+      "three_year_reference_tco_usd": "179.00 (Starter) to 478.97 (Pro) / 898.97 (Unlimited)",
+      "processing_location": "Cloud app & Plaud Desktop",
+      "speaker_diarization": "Cloud app / plan-dependent",
+      "headphone_call_capture": "Supported via Plaud Desktop / phone conduction",
+      "local_markdown_and_mcp": "Cloud app export + Plaud cloud MCP/CLI",
+      "comparison_url": "https://onemira.com/compare/plaud-note-pro"
+    },
+    {
+      "device": "HeyPocket (Pocket AI)",
+      "vendor": "Pocket",
+      "upfront_price_usd": "199.00 (check current offer)",
+      "included_free_tier": "Free standard cloud transcription (30-day summary history per plan page)",
+      "optional_paid_plan_usd_yr": "Optional Pro plan for extended summary history & advanced features",
+      "three_year_reference_tco_usd": "Device price (Free tier) or Device + 3x annual Pro",
+      "processing_location": "Cloud-connected mobile app",
+      "speaker_diarization": "Pro automatic speaker names / cloud app",
+      "headphone_call_capture": "Phone / app capture",
+      "local_markdown_and_mcp": "Mobile app export",
+      "comparison_url": "https://onemira.com/compare/heypocket"
+    },
+    {
+      "device": "HiDock P1",
+      "vendor": "HiDock",
+      "upfront_price_usd": "169.00",
+      "included_free_tier": "HiNotes Member basic transcription + TXT export + 300 claimable Pro min/mo",
+      "optional_paid_plan_usd_yr": "Optional HiNotes Pro membership for higher speaker-ID & export quota",
+      "three_year_reference_tco_usd": "169.00 (Member) or 169.00 + optional Pro quota",
+      "processing_location": "HiNotes cloud / desktop app (separate Mac local alpha available)",
+      "speaker_diarization": "300 claimable Pro min/mo or Pro plan",
+      "headphone_call_capture": "USB-C BlueCatch earphone-call capture + standalone Room/Whisper",
+      "local_markdown_and_mcp": "TXT / app export",
+      "comparison_url": "https://onemira.com/compare/hidock-p1"
+    },
+    {
+      "device": "Comulytic Note Pro (Comu)",
+      "vendor": "Comu",
+      "upfront_price_usd": "Check current Comu offer",
+      "included_free_tier": "Free basic cloud transcription and summaries",
+      "optional_paid_plan_usd_yr": "Optional premium plan for advanced features",
+      "three_year_reference_tco_usd": "Device price (basic tier) + optional premium plan",
+      "processing_location": "Comu app ecosystem",
+      "speaker_diarization": "App / plan-dependent",
+      "headphone_call_capture": "Model-dependent",
+      "local_markdown_and_mcp": "App export",
+      "comparison_url": "https://onemira.com/compare/comulytic"
+    },
+    {
+      "device": "SwitchBot AI MindClip",
+      "vendor": "SwitchBot",
+      "upfront_price_usd": "119.99",
+      "included_free_tier": "300 free monthly cloud transcription minutes (16.8 g clip, 3 m pickup)",
+      "optional_paid_plan_usd_yr": "99.99 (Pro)",
+      "three_year_reference_tco_usd": "119.99 (300 min/mo) to 419.96 (with annual Pro)",
+      "processing_location": "SwitchBot cloud app",
+      "speaker_diarization": "Cloud app / plan-dependent",
+      "headphone_call_capture": "Wearable room/collar capture",
+      "local_markdown_and_mcp": "Cloud OpenAPI CLI/MCP",
+      "comparison_url": "https://onemira.com/compare/switchbot-mindclip"
+    },
+    {
+      "device": "Omi",
+      "vendor": "Based Hardware (Omi)",
+      "upfront_price_usd": "89.00 to 179.00",
+      "included_free_tier": "Unlimited on-phone transcription + 300 cloud minutes/month",
+      "optional_paid_plan_usd_yr": "Optional Unlimited cloud tier (~190.00/yr)",
+      "three_year_reference_tco_usd": "Hardware only (Free tier) up to ~659.00+ (Unlimited cloud)",
+      "processing_location": "Phone app / open-source cloud ecosystem",
+      "speaker_diarization": "App / cloud-dependent",
+      "headphone_call_capture": "Wearable ambient capture",
+      "local_markdown_and_mcp": "Webhook / cloud MCP plugins",
+      "comparison_url": "https://onemira.com/compare/omi"
+    },
+    {
+      "device": "Bee Frontier (Amazon Bee)",
+      "vendor": "Bee",
+      "upfront_price_usd": "74.99",
+      "included_free_tier": "Free tier keeps conversation summaries for 14 days in mobile app",
+      "optional_paid_plan_usd_yr": "99.99 (Bee Pro: unlimited history, Bee for Desktop & integrations)",
+      "three_year_reference_tco_usd": "74.99 (Free) to 374.96 (annual Bee Pro)",
+      "processing_location": "Mobile & Bee Desktop cloud ecosystem",
+      "speaker_diarization": "App-managed",
+      "headphone_call_capture": "Bee for Desktop (requires Bee Pro)",
+      "local_markdown_and_mcp": "App integrations (Bee Pro)",
+      "comparison_url": "https://onemira.com/compare/bee-frontier"
+    },
+    {
+      "device": "Mobvoi TicNote",
+      "vendor": "Mobvoi",
+      "upfront_price_usd": "Check current model price",
+      "included_free_tier": "600 free monthly cloud transcription minutes advertised",
+      "optional_paid_plan_usd_yr": "Optional paid quota/membership",
+      "three_year_reference_tco_usd": "Device price (within 600 min/mo) + optional plan",
+      "processing_location": "Mobvoi cloud app ecosystem",
+      "speaker_diarization": "Cloud app",
+      "headphone_call_capture": "Model-dependent",
+      "local_markdown_and_mcp": "App export",
+      "comparison_url": "https://onemira.com/compare/ticnote"
+    }
+  ]
+}

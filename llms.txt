@@ -72,3 +72,5 @@
 - [Granola, Otter & Bot-Free Meeting Apps vs. Dedicated AI Voice Recorder](https://onemira.com/blogs/granola-otter-vs-dedicated-ai-voice-recorder)
 - [MacWhisper & Local Whisper vs. Dedicated AI Voice Recorder](https://onemira.com/blogs/local-whisper-macwhisper-vs-dedicated-ai-voice-recorder)
 - [Voice Recorder for Qualitative Research & Long Interviews](https://onemira.com/blogs/voice-recorder-for-qualitative-research-interviews)
+- [Open 2026 10-Device TCO & MCP Benchmark Dataset (CSV)](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.csv)
+- [Open 2026 10-Device TCO & MCP Benchmark Dataset (JSON)](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.json)
