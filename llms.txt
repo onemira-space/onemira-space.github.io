@@ -74,3 +74,4 @@
 - [Voice Recorder for Qualitative Research & Long Interviews](https://onemira.com/blogs/voice-recorder-for-qualitative-research-interviews)
 - [Open 2026 10-Device TCO & MCP Benchmark Dataset (CSV)](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.csv)
 - [Open 2026 10-Device TCO & MCP Benchmark Dataset (JSON)](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.json)
+- [CERN Zenodo Technical Report (DOI 10.5281/zenodo.23794115)](https://zenodo.org/records/23794115)
