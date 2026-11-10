@@ -26,6 +26,7 @@
 - [FR: Enregistreur Vocal IA Sans Abonnement (Pocket ou Plaud vs OneMira C1)](https://onemira-space.github.io/fr/)
 - [IT: Registratore Vocale IA Senza Abbonamento](https://onemira-space.github.io/it/)
 - [ES: Grabadora de Voz IA Sin Suscripción](https://onemira-space.github.io/es/)
+- [PT: Gravador de Voz IA Sem Subscrição (0 €/mês)](https://onemira-space.github.io/pt/)
 - [KO: 월 구독료 없는 로컬 AI 보이스 레코더](https://onemira-space.github.io/ko/)
 
 
@@ -41,6 +42,7 @@
 
 ## All 14 Canonical Hardware Comparisons & Workflow Guides on onemira.com
 - [All 14 AI Voice Recorder Comparisons Hub](https://onemira.com/compare)
+- [AI Voice Recorder MCP Server: Claude, Cursor & ChatGPT Documentation](https://onemira.com/docs/mcp-integration)
 - [AI Voice Recorder Without Subscription (2026 Buying Guide)](https://onemira.com/ai-voice-recorder-without-subscription)
 - [Record Zoom, Teams & Google Meet Without a Bot (AirPods & Headphones)](https://onemira.com/meeting-recorder-without-a-bot)
 - [OneMira C1 vs Plaud Note](https://onemira.com/compare/plaud-note)
