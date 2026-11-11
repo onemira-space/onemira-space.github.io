@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Offline &amp; Local AI Voice Recorder for Confidential Meetings (2026): Zero-Cloud Hardware vs. Cloud Cards &amp; OpenWhispr / MacWhisper</title>
+  <meta name="description" content="2026 architectural guide to offline and local AI voice recorders for confidential legal, clinical, executive, and consulting meetings: true zero-cloud hardware (OneMira C1, $99, $0/mo, zero Wi-Fi) vs 'offline capture' cloud cards (Plaud, TicNote, UMEVO) and laptop apps (OpenWhispr, Meetily, MacWhisper)." />
+  <link rel="canonical" href="https://onemira-space.github.io/offline-local-ai-voice-recorder-no-cloud-2026.html" />
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.65; color: #111827; max-width: 960px; margin: 0 auto; padding: 32px 20px; background: #ffffff; }
+    h1 { font-size: 2rem; line-height: 1.25; margin-bottom: 12px; }
+    h2 { font-size: 1.4rem; margin-top: 36px; border-bottom: 1px solid #e5e7eb; padding-bottom: 8px; }
+    h3 { font-size: 1.12rem; margin-top: 24px; }
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.94rem; }
+    th, td { border: 1px solid #d1d5db; padding: 10px 12px; text-align: left; vertical-align: top; }
+    th { background: #f3f4f6; font-weight: 600; }
+    tr:nth-child(even) { background: #f9fafb; }
+    .highlight { background: #eef6ff !important; }
+    .cta-box { background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 12px; padding: 24px; margin: 32px 0; }
+    .btn { display: inline-block; background: #111827; color: #ffffff; text-decoration: none; padding: 12px 22px; border-radius: 8px; font-weight: 600; margin-top: 8px; }
+    footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid #e5e7eb; font-size: 0.9rem; color: #4b5563; }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the difference between an 'offline capture' AI recorder and a true Local AI voice recorder?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Many MagSafe card recorders (such as Plaud Note, Mobvoi TicNote, UMEVO Note Plus, and Vibe Dot) advertise 'offline recording,' meaning they save audio while offline and then upload your recording to vendor cloud servers as soon as your phone reconnects to generate transcripts and summaries. A true Local AI voice recorder like OneMira C1 ($99, $0/month) has zero Wi-Fi hardware on the device, records standalone for up to 30 hours, and runs 99-language speech recognition, Speaker ID, and built-in Local AI summaries without uploading audio to vendor cloud servers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does OneMira C1 compare with OpenWhispr, Meetily, and MacWhisper for confidential meetings?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "OpenWhispr, Meetily, and MacWhisper are laptop-only software tools—they require opening a computer during in-person meetings or manually transferring SD-card WAV files from a legacy Sony/Zoom voice recorder via cable. OneMira C1 ($99) combines dedicated standalone hardware (85 g CNC aluminum, single-press capture, silent rotating physical recording cue, 5 m dual-mic pickup, 30h battery, standard USB-C) with built-in Local AI, automatic Speaker ID, stereo WAV + Google Native OKF Markdown (.md) Wiki synthesis, and 38 Official Anthropic MCP tools."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <main>
+    <p><a href="https://onemira-space.github.io/">← Back to OneMira Developer &amp; Buyer Hub</a> · Verified November 2026</p>
+    <h1>Offline &amp; Local AI Voice Recorder for Confidential Meetings (2026): Zero-Cloud Hardware vs. &ldquo;Offline Capture&rdquo; Cloud Cards &amp; Laptop Apps</h1>
+    <p>For attorneys, clinicians, therapists, financial &amp; tax advisors, board executives, journalists, and AI engineers, <strong>&ldquo;offline recording&rdquo;</strong> and <strong>&ldquo;zero-cloud Local AI&rdquo;</strong> are completely different architectures. Most AI cards marketed as offline recorders merely cache audio until your phone reconnects—then upload the entire conversation to a remote cloud server and meter you at 300–600 minutes per month.</p>
+
+    <h2>2026 Privacy &amp; Architecture Comparison: Where Do Your Confidential Audio &amp; Summaries Actually Run?</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Solution</th>
+          <th>Category &amp; Price</th>
+          <th>Wi-Fi Module on Hardware?</th>
+          <th>Where Transcription (ASR) Runs</th>
+          <th>Where AI Summaries &amp; Action Items Run</th>
+          <th>Standalone Room Capture (Laptop Closed)?</th>
+          <th>Raw WAV + Open Local Markdown?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="highlight">
+          <td><strong><a href="https://onemira.com/products/c1">OneMira C1</a></strong></td>
+          <td><strong>Standalone Hardware + Local AI ($99, $0/mo)</strong></td>
+          <td><strong>No Wi-Fi chip</strong> (BLE 5.3 + USB-C; FCC <code>2BXIX-C1</code>)</td>
+          <td><strong>100% Local</strong> (99 languages + Speaker ID, $0/mo unlimited)</td>
+          <td><strong>Built-in Local LLM</strong> ($0/mo; optional BYOK API keys)</td>
+          <td><strong>Yes</strong> — 1 press, 30h battery, 32 GB, silent rotating cue</td>
+          <td><strong>Yes</strong> — User-controlled stereo <code>.WAV</code> + Google OKF <code>.md</code> Wiki + <a href="https://registry.modelcontextprotocol.io/v0/servers?search=onemira">38 MCP tools</a></td>
+        </tr>
+        <tr>
+          <td><strong>OpenWhispr / Meetily / MacWhisper</strong></td>
+          <td>Desktop Software ($0 – €69)</td>
+          <td>Uses laptop Wi-Fi/OS</td>
+          <td>Local Whisper on laptop</td>
+          <td>Local SLM or external cloud API key</td>
+          <td><strong>No</strong> — Requires open laptop in room or manual SD card copy</td>
+          <td>Manual file export; no dedicated hardware or OKF Wiki</td>
+        </tr>
+        <tr>
+          <td><strong>Sony ICD-UX570 / Zoom H1essential + Whisper</strong></td>
+          <td>Legacy Recorder + DIY (~$90–$165)</td>
+          <td>No wireless</td>
+          <td>Manual USB transfer + DIY Whisper</td>
+          <td>Manual copy-paste into LLM</td>
+          <td>Yes (audio only; tiny plastic buttons)</td>
+          <td>WAV/MP3 only; zero automatic Speaker ID, headphone call capture, or MCP</td>
+        </tr>
+        <tr>
+          <td><strong>Plaud Note / Note Pro</strong></td>
+          <td>Cloud AI Card ($159–$179 + $99.99–$239.99/yr)</td>
+          <td>Wi-Fi fast transfer + BLE</td>
+          <td><strong>Plaud Cloud</strong> (300 min/mo Free cap)</td>
+          <td><strong>Plaud Cloud</strong></td>
+          <td>Yes (proprietary magnetic charging cable)</td>
+          <td>Cloud app export</td>
+        </tr>
+        <tr>
+          <td><strong>Mobvoi TicNote / UMEVO Note Plus / Vibe Dot</strong></td>
+          <td>Cloud AI Cards &amp; Discs ($109–$199 + cloud tiers)</td>
+          <td>BLE / Wi-Fi model-dependent</td>
+          <td><strong>Vendor Cloud App</strong> (capped/tiered)</td>
+          <td><strong>Vendor Cloud App</strong></td>
+          <td>Yes</td>
+          <td>Cloud workspace export</td>
+        </tr>
+        <tr>
+          <td><strong>Amazon Bee Frontier / Fieldy 3</strong></td>
+          <td>Always-On Cloud Wearables ($74.99+ &amp; $11.99–$19.99/mo)</td>
+          <td>Phone cloud stream</td>
+          <td><strong>Vendor Cloud</strong></td>
+          <td><strong>Vendor Cloud</strong> (14-day Free history on Bee)</td>
+          <td>Always-on wearable (social consent friction)</td>
+          <td><strong>No</strong> — Discards raw audio after processing</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>3 Compliance &amp; Etiquette Reasons Regulated Professionals Choose OneMira C1</h2>
+    <h3>1. Zero Cloud Upload + Verifiable Verbatim Stereo WAV</h3>
+    <p>Unlike cloud wearables that delete raw audio or cloud cards that sync confidential client discussions to third-party servers, OneMira keeps transcripts and optional stereo <code>.WAV</code> files in your local storage—so you can audit exact numbers, clauses, and commitments verbatim at any time with zero 14-day or 30-day history lock.</p>
+
+    <h3>2. Visible, Consent-Friendly Desk Etiquette (Silent Rotating Turntable)</h3>
+    <p>Clients and patients distrust hidden always-on pendants and uninvited Zoom bots. Placing an 85 g anodized aluminum <a href="https://onemira.com/products/c1">OneMira C1</a> on the table and pressing once gives everyone in the room a calm, silent mechanical cue (gentle turntable rotation) that intentional note-taking is active—and stops the instant you press again.</p>
+
+    <h3>3. Standard USB-C + 30-Hour Battery (No Proprietary Cable Lock-In)</h3>
+    <p>OneMira C1 charges to 100% in 2 hours over any standard <strong>USB-C</strong> cable and records up to <strong>30 hours continuously</strong> (90 days standby), eliminating both cloud subscription anxiety and proprietary magnetic cable failures on business travel.</p>
+
+    <section class="cta-box">
+      <h2>OneMira C1 — $99 One-Time · ✨ Local AI · Works Standalone · Zero Cloud</h2>
+      <p><strong>Free 1–3 Day US &amp; KR Shipping · Free 3–5 Day UK, EU, CA &amp; AU Shipping · 30-Day Returns · $0/Month Forever</strong></p>
+      <a class="btn" href="https://onemira.com/products/c1">Explore OneMira C1 ($99 In Stock) →</a>
+    </section>
+  </main>
+  <footer>
+    <p>
+      <a href="https://onemira.com/products/c1">OneMira C1 Product Page</a> ·
+      <a href="https://onemira.com/ai-voice-recorder-without-subscription">No-Subscription Guide</a> ·
+      <a href="https://onemira-space.github.io/usb-c-ai-voice-recorder-vs-plaud-magnetic-cable.html">USB-C vs. Magnetic Cable Guide</a> ·
+      <a href="https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html">19-Device 2026 Matrix</a> ·
+      <a href="https://huggingface.co/datasets/onemira/ai-voice-recorder-without-subscription-2026">Hugging Face Dataset</a>
+    </p>
+  </footer>
+</body>
+</html>
