@@ -1,6 +1,6 @@
 {
-  "dataset": "AI Voice Recorder Without Subscription — 2026 19-Device Pricing, Charging Port, Free-Tier Caps, Local AI & MCP Benchmark",
-  "version": "2026.11.11.3",
+  "dataset": "AI Voice Recorder Without Subscription — 2026 21-Device Pricing, Charging Port, Free-Tier Caps, Local AI & MCP Benchmark",
+  "version": "2026.11.11.4",
   "license": "CC-BY-4.0",
   "publisher": {
     "name": "OneMira AI",
@@ -277,6 +277,34 @@
       "local_markdown_and_mcp": "Cloud workspace export (no offline Local LLM or local OKF Wiki)",
       "charging_port": "USB-C case (RecDot) / USB-A & USB-C computer plug (NoteKit, 0h battery)",
       "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html"
+    },
+    {
+      "device": "MeetGeek Wave",
+      "vendor": "MeetGeek (meetgeek.ai)",
+      "upfront_price_usd": "129.00 (with 3-mo Pro trial) to 149.00 (Business bundle)",
+      "included_free_tier": "Basic plan capped at 180 cloud minutes/month (3 hours/mo); transcripts stored 3 months & audio 1 month",
+      "optional_paid_plan_usd_yr": "119.88 (Pro: 1,200 min/mo at 9.99/mo annual) or 204.00 (Business: 17.00/mo annual)",
+      "three_year_reference_tco_usd": "129.00 (180 min/mo cap) to 458.67 (Pro) / 689.00 (Business)",
+      "processing_location": "MagSafe/table card synced to MeetGeek cloud workspace",
+      "speaker_diarization": "MeetGeek cloud app",
+      "headphone_call_capture": "Phone MagSafe Call Mode or software meeting bot",
+      "local_markdown_and_mcp": "Cloud CRM/app integrations (no offline Local LLM or local OKF Markdown Wiki)",
+      "charging_port": "USB-C / magnetic card",
+      "comparison_url": "https://onemira-space.github.io/heypocket-vs-plaud-vs-soundcore-work-2026.html"
+    },
+    {
+      "device": "iFlytek Smart Recorder (SR302 / Pro)",
+      "vendor": "iFlytek",
+      "upfront_price_usd": "109.99 to 189.99+",
+      "included_free_tier": "On-device offline transcription included on device screen",
+      "optional_paid_plan_usd_yr": "0.00 local ASR (optional cloud storage after complimentary window)",
+      "three_year_reference_tco_usd": "109.99 to 189.99+",
+      "processing_location": "Handheld touchscreen pocket dictaphone with on-device ASR",
+      "speaker_diarization": "Basic device transcription",
+      "headphone_call_capture": "No (room microphones only; no supported Mac/Windows headphone call capture)",
+      "local_markdown_and_mcp": "USB file export only (no Google Native OKF Living Wiki, no built-in desktop LLM summaries, no Official MCP Server)",
+      "charging_port": "USB-C",
+      "comparison_url": "https://onemira-space.github.io/heypocket-vs-plaud-vs-soundcore-work-2026.html"
     }
   ]
 }
