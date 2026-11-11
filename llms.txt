@@ -7,6 +7,8 @@
 - [One-Click Claude Desktop MCPB Direct Download (onemira-mcp.mcpb v1.2.1)](https://github.com/onemira-space/onemira-mcp/releases/download/v1.2.1/onemira-mcp.mcpb)
 - [GitHub Release v1.2.1](https://github.com/onemira-space/onemira-mcp/releases/tag/v1.2.1)
 - [Glama Verified MCP Server](https://glama.ai/mcp/servers/onemira-space/onemira-mcp)
+- [Hugging Face Open Benchmark Dataset (2026)](https://huggingface.co/datasets/onemira/ai-voice-recorder-without-subscription-2026)
+- [HackMD Botless Meeting Recorder Setup Guide](https://hackmd.io/@onemira/r1gGSH-0Gx)
 
 ## Canonical Storefront & Product Links (US$99 Automatic Early Black Friday Checkout · Buy 2 Save US$60)
 - [OneMira C1 Product Page (US/Global)](https://onemira.com/products/c1)
@@ -26,6 +28,9 @@
 - [Limitless Pendant Alternative](https://onemira-space.github.io/limitless-pendant-alternative.html)
 - [HiDock P1 Alternative](https://onemira-space.github.io/hidock-p1-alternative.html)
 - [Omi Alternative](https://onemira-space.github.io/omi-alternative.html)
+- [Botless Meeting Recorder Setup Guide (2026): Zoom, Teams, AirPods & Room Capture](https://onemira-space.github.io/botless-meeting-recorder-setup-guide.html)
+- [Mobvoi TicNote Alternative ($0/Mo, USB-C)](https://onemira-space.github.io/ticnote-alternative.html)
+- [SwitchBot AI MindClip Alternative (5m Pickup, 30h, $0/Mo)](https://onemira-space.github.io/switchbot-mindclip-alternative.html)
 - [Granola & Otter Bot-Free Alternative](https://onemira-space.github.io/granola-otter-bot-free-alternative.html)
 - [Obsidian & Claude Code MCP Voice Recorder](https://onemira-space.github.io/obsidian-claude-code-voice-recorder.html)
 - [DE: KI-Diktiergerät mit Transkription ohne Abo](https://onemira-space.github.io/de/)
