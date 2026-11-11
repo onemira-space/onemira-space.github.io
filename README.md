@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://onemira.com/products/c1">
-    <img src="https://cdn.shopify.com/s/files/1/0822/6897/9444/files/onemira-c1-pdp-001_0c685067-f806-4ba2-8c5d-2717ce2097a4.jpg" alt="OneMira C1 Standalone AI Voice Recorder" width="840" />
+    <img src="https://cdn.shopify.com/s/files/1/0822/6897/9444/files/onemira-c1-pdp-001.jpg?v=1793519107" alt="OneMira C1 Standalone AI Voice Recorder" width="840" />
   </a>
 </p>
 
