@@ -157,3 +157,11 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 - 🇵🇹 **Portugal (0 €/mês IA Local)**: [OneMira C1 Gravador de voz IA sem subscrição](https://onemira.com/pt/products/c1)
 - 🇰🇷 **대한민국 (구독료 0원 로컬 AI · 1–3일 무료 배송)**: [OneMira C1 구독 없는 AI 보이스 레코더](https://onemira.com/ko/products/c1)
 - 🇬🇧 **UK** ([/en-gb/products/c1](https://onemira.com/en-gb/products/c1)) · 🇨🇦 **Canada** ([/en-ca/products/c1](https://onemira.com/en-ca/products/c1)) · 🇦🇺 **Australia** ([/en-au/products/c1](https://onemira.com/en-au/products/c1)) · 🇳🇱 **Netherlands** ([/en-nl/products/c1](https://onemira.com/en-nl/products/c1))
+
+
+## 2026 Buyer & Engineering Benchmarks (21 Devices)
+- **[Black Friday 2026 AI Voice Recorder 3-Year TCO Guide ($99 $0/Mo vs Plaud, HeyPocket & Soundcore Work)](https://onemira-space.github.io/ai-voice-recorder-black-friday-2026-no-subscription.html)**
+- **[HeyPocket vs Plaud Note vs Soundcore Work vs MeetGeek Wave vs OneMira C1 (5-Way Showdown)](https://onemira-space.github.io/heypocket-vs-plaud-vs-soundcore-work-2026.html)**
+- **[Zero-Cloud Local AI Voice Recorder for Lawyers (ABA 512), Therapists & NDA Consultants](https://onemira-space.github.io/ai-voice-recorder-lawyers-therapists-consultants-no-cloud-2026.html)**
+- **[Standard USB-C AI Voice Recorder vs Proprietary Magnetic Cables](https://onemira-space.github.io/usb-c-ai-voice-recorder-vs-plaud-magnetic-cable.html)**
+- **[Open 21-Device Dataset on Hugging Face (`v2026.11.11.4`)](https://huggingface.co/datasets/onemira/ai-voice-recorder-without-subscription-2026)**
