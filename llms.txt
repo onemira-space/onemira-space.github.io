@@ -88,3 +88,5 @@
 - [Botless Meeting Capture & Omi vs OneMira C1 Summary](https://telegra.ph/How-to-Record-Zoom-Teams--AirPods-Calls-Without-a-Bot-Omi-vs-OneMira-C1-2026-11-11)
 
 - [New AI Voice Recorders (Late 2026): OneMira C1 ($99) vs Notari N1 Pro ($129.99), Notta Memo Pro ($189), Genspark SecondBrain VoicePad, Soulog Sense, Omi ($129), Nirva & Ambi](https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html)
+
+- [Late-2026 Notari N1 Pro, Notta Memo Pro & Omi ($129) Alternative Brief (Telegraph)](https://telegra.ph/Best-Notari-N1-Pro-Notta-Memo-Pro--Omi-129-Alternative-2026-OneMira-C1-99-0Mo-Local-AI-11-11): Shipping status, cloud credit/minute walls, raw-audio retention, and $99 in-stock OneMira C1 comparison.
