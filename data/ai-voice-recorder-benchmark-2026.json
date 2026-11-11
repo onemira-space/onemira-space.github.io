@@ -1,6 +1,6 @@
 {
-  "dataset": "AI Voice Recorder Without Subscription — 2026 25-Device Pricing, Charging Port, Free-Tier Caps, Local AI, Obsidian Markdown & MCP Benchmark",
-  "version": "2026.11.11.6",
+  "dataset": "Open 2026 27-Device Subscription-Free AI Voice Recorder Hardware & 3-Year TCO Benchmark",
+  "version": "2026.11.11.9",
   "license": "CC-BY-4.0",
   "publisher": {
     "name": "OneMira AI",
@@ -361,6 +361,34 @@
       "local_markdown_and_mcp": "Cloud web/app API only (no native local Google OKF Markdown Wiki)",
       "comparison_url": "https://onemira.com/compare",
       "charging_port": "USB-C port on wearable pendant"
+    },
+    {
+      "device": "Memoket Gem",
+      "vendor": "Memoket",
+      "upfront_price_usd": "199.00",
+      "included_free_tier": "Free Starter Plan (~300 cloud transcription minutes/month); heavy daily meetings require paid Pro or Unlimited cloud plan",
+      "optional_paid_plan_usd_yr": "99.00 to 239.00 (paid Pro/Unlimited cloud tiers)",
+      "three_year_reference_tco_usd": "199.00 (light 300m cap) to 496.00 - 916.00 (heavy use)",
+      "processing_location": "Memoket cloud servers via mobile app (MemoChat cloud)",
+      "speaker_diarization": "Cloud app processing",
+      "headphone_call_capture": "Wearable room mic only (cannot capture far-end AirPods audio directly)",
+      "local_markdown_and_mcp": "Cloud Slack/Notion export only (no offline local Google OKF Markdown Wiki)",
+      "comparison_url": "https://onemira.com/compare",
+      "charging_port": "Proprietary wearable charging dock (20h battery)"
+    },
+    {
+      "device": "Seo&O AI Capsule (서앤오 AI 캡슐)",
+      "vendor": "Seo&O (서앤오)",
+      "upfront_price_usd": "~215.00 (299,000 KRW)",
+      "included_free_tier": "Cloud STT, summary & mind-map templates bundled via Seo&O cloud app",
+      "optional_paid_plan_usd_yr": "0.00 (dependent on vendor cloud servers remaining free)",
+      "three_year_reference_tco_usd": "~215.00 (299,000 KRW — more than 2x OneMira C1 $99)",
+      "processing_location": "Vendor cloud sync across mobile app & PC (no 100% air-gapped local LLM)",
+      "speaker_diarization": "Cloud app STT",
+      "headphone_call_capture": "Wearable capsule mic (no botless macOS Core Audio / Windows AirPods call tap)",
+      "local_markdown_and_mcp": "Cloud Notion/Slack sync (no native local Google OKF .md Wiki or official MCP server)",
+      "comparison_url": "https://onemira-space.github.io/ko/plaud-note-seoando-ai-capsule-alternative-kr-2026.html",
+      "charging_port": "Proprietary capsule charging cradle"
     }
   ]
 }
