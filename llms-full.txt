@@ -92,7 +92,7 @@
   - **HeyPocket (Pocket AI)**: $199 hardware + $199/yr Pro for full summary history = **$199–$796**
   - **HiDock P1**: $169 USB-C desk/earphone dock + optional Pro cloud membership = **$169–$467+**
   - **Anker Soundcore Work**: $149.99 hardware + paid subscription above 300 min/mo = **$389+**
-  - **Omi Pendant**: $89 BLE phone-tethered wearable + ~$190/yr cloud Unlimited = **$89–$659**
+  - **Omi Pendant**: $129 ($179 list) BLE phone-paired wearable + optional $19/mo Plus or $269/yr Pro Unlimited = **$129–$936**
 
 - [New AI Voice Recorders (Late 2026): OneMira C1 ($99) vs Notari N1 Pro ($129.99), Notta Memo Pro ($189), Genspark SecondBrain VoicePad, Soulog Sense, Omi ($129), Nirva & Ambi](https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html)
 
