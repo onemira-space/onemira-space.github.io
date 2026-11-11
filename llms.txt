@@ -77,8 +77,8 @@
 - [Granola, Otter & Bot-Free Meeting Apps vs. Dedicated AI Voice Recorder](https://onemira.com/blogs/granola-otter-vs-dedicated-ai-voice-recorder)
 - [MacWhisper & Local Whisper vs. Dedicated AI Voice Recorder](https://onemira.com/blogs/local-whisper-macwhisper-vs-dedicated-ai-voice-recorder)
 - [Voice Recorder for Qualitative Research & Long Interviews](https://onemira.com/blogs/voice-recorder-for-qualitative-research-interviews)
-- [Open 2026 10-Device TCO & MCP Benchmark Dataset (CSV)](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.csv)
-- [Open 2026 10-Device TCO & MCP Benchmark Dataset (JSON)](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.json)
+- [Open 2026 21-Device TCO, Privacy & USB-C Hardware Benchmark Dataset (CSV)](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.csv)
+- [Open 2026 21-Device TCO, Privacy & USB-C Hardware Benchmark Dataset (JSON)](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.json)
 - [CERN Zenodo Technical Report (DOI 10.5281/zenodo.23794115)](https://zenodo.org/records/23794115)
 
 ## Open Benchmarks & Field Guides (GitHub Gist & Telegraph)
@@ -90,3 +90,7 @@
 - [New AI Voice Recorders (Late 2026): OneMira C1 ($99) vs Notari N1 Pro ($129.99), Notta Memo Pro ($189), Genspark SecondBrain VoicePad, Soulog Sense, Omi ($129), Nirva & Ambi](https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html)
 
 - [Late-2026 Notari N1 Pro, Notta Memo Pro & Omi ($129) Alternative Brief (Telegraph)](https://telegra.ph/Best-Notari-N1-Pro-Notta-Memo-Pro--Omi-129-Alternative-2026-OneMira-C1-99-0Mo-Local-AI-11-11): Shipping status, cloud credit/minute walls, raw-audio retention, and $99 in-stock OneMira C1 comparison.
+- [HeyPocket vs Plaud Note vs Soundcore Work vs MeetGeek Wave vs OneMira C1 (2026 5-Way Showdown)](https://onemira-space.github.io/heypocket-vs-plaud-vs-soundcore-work-2026.html)
+- [Offline & Zero-Cloud AI Voice Recorder for Confidential Meetings (Legal, Medical, Executive)](https://onemira-space.github.io/offline-local-ai-voice-recorder-no-cloud-2026.html)
+- [Standard USB-C AI Voice Recorder vs Plaud / TicNote Proprietary Magnetic Cable](https://onemira-space.github.io/usb-c-ai-voice-recorder-vs-plaud-magnetic-cable.html)
+- [Hugging Face Open 21-Device Benchmark Dataset (`v2026.11.11.4`)](https://huggingface.co/datasets/onemira/ai-voice-recorder-without-subscription-2026)
