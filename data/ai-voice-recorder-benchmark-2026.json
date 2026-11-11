@@ -233,7 +233,7 @@
       "speaker_diarization": "App / plan-dependent",
       "headphone_call_capture": "Model-dependent",
       "local_markdown_and_mcp": "App export",
-      "comparison_url": "https://onemira.com/compare#more-recorders",
+      "comparison_url": "https://onemira-space.github.io/it/miglior-registratore-vocale-ai-senza-abbonamento-alternativa-plaud-2026.html",
       "charging_port": "Magnetic charging cable"
     },
     {
@@ -307,20 +307,6 @@
       "comparison_url": "https://onemira-space.github.io/heypocket-vs-plaud-vs-soundcore-work-2026.html"
     },
     {
-      "device": "Comulytic Note Pro",
-      "vendor": "Comulytic",
-      "upfront_price_usd": "128.99 to 158.99",
-      "included_free_tier": "Free Starter basic cloud transcription & basic summary; advanced Deep Dive Suite / Instant Abstract / multi-query AI locked behind paid plan",
-      "optional_paid_plan_usd_yr": "120.00 to 179.88 (10.00 to 14.99/mo Pro Deep Dive)",
-      "three_year_reference_tco_usd": "128.99 (basic cloud) to 488.99 - 668.63 (with Deep Dive Pro)",
-      "processing_location": "AWS cloud via Wi-Fi / mobile app (no offline Local AI)",
-      "speaker_diarization": "Cloud app",
-      "headphone_call_capture": "Phone card conduction only (cannot capture Zoom/Teams while wearing AirPods)",
-      "local_markdown_and_mcp": "Cloud mobile app only (no local Google OKF Markdown Wiki or MCP server)",
-      "comparison_url": "https://onemira-space.github.io/it/miglior-registratore-vocale-ai-senza-abbonamento-alternativa-plaud-2026.html",
-      "charging_port": "USB-A to USB-C / slim card adapter (3 mm card)"
-    },
-    {
       "device": "Flowtica Scribe",
       "vendor": "Flowtica",
       "upfront_price_usd": "209.00 (Complete Set AI pen + case)",
@@ -347,6 +333,34 @@
       "local_markdown_and_mcp": "Mobile app only (no local OKF Markdown Wiki or MCP server)",
       "comparison_url": "https://onemira-space.github.io/fr/meilleur-enregistreur-vocal-ia-sans-abonnement-alternative-plaud-pocket-2026.html",
       "charging_port": "Slim card charging adapter (64 GB)"
+    },
+    {
+      "device": "Voicit Go",
+      "vendor": "Voicit",
+      "upfront_price_usd": "65.00 to 85.00 (~59 to 79 EUR)",
+      "included_free_tier": "Starter cloud tier (~300 cloud minutes/month); heavier business usage requires monthly SaaS plan",
+      "optional_paid_plan_usd_yr": "120.00 to 360.00 (10.00 to 30.00/mo Voicit cloud tiers)",
+      "three_year_reference_tco_usd": "85.00 (light cap) to 445.00 - 1,165.00 (with cloud SaaS)",
+      "processing_location": "Voicit EU cloud servers (no offline Local AI)",
+      "speaker_diarization": "Voicit cloud platform",
+      "headphone_call_capture": "Magnetic recorder / web meeting bot (no botless offline AirPods capture)",
+      "local_markdown_and_mcp": "Cloud CRM/ATS export only (no local Google OKF Markdown Wiki or MCP server)",
+      "comparison_url": "https://onemira-space.github.io/fr/meilleur-enregistreur-vocal-ia-sans-abonnement-alternative-plaud-pocket-2026.html",
+      "charging_port": "Compact magnetic recorder charging cable"
+    },
+    {
+      "device": "Limitless Pendant",
+      "vendor": "Limitless",
+      "upfront_price_usd": "99.00",
+      "included_free_tier": "Starter cloud allowance (metered monthly AI hours); Pro/Unlimited requires recurring cloud subscription",
+      "optional_paid_plan_usd_yr": "190.00 to 228.00 (~19.00/mo Pro cloud subscription)",
+      "three_year_reference_tco_usd": "99.00 (capped cloud tier) to 669.00+ (with Pro)",
+      "processing_location": "Limitless cloud servers via Wi-Fi / mobile app (no offline Local AI)",
+      "speaker_diarization": "Limitless cloud app",
+      "headphone_call_capture": "Desktop app cloud stream required when wearing AirPods",
+      "local_markdown_and_mcp": "Cloud web/app API only (no native local Google OKF Markdown Wiki)",
+      "comparison_url": "https://onemira.com/compare",
+      "charging_port": "USB-C port on wearable pendant"
     }
   ]
 }
