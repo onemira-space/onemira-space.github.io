@@ -1,6 +1,6 @@
 {
-  "dataset": "AI Voice Recorder Without Subscription — 2026 16-Device Pricing, Free-Tier Caps, Shipping Status, Local AI & MCP Benchmark",
-  "version": "2026.11.11.2",
+  "dataset": "AI Voice Recorder Without Subscription — 2026 19-Device Pricing, Charging Port, Free-Tier Caps, Local AI & MCP Benchmark",
+  "version": "2026.11.11.3",
   "license": "CC-BY-4.0",
   "publisher": {
     "name": "OneMira AI",
@@ -19,11 +19,12 @@
       "included_free_tier": "Unlimited local ASR (99 languages) + built-in offline Local AI summaries, decisions, action items & mind maps ($0/mo); in stock (1-5 day free shipping in US/KR/UK/EU/CA/AU)",
       "optional_paid_plan_usd_yr": "0.00 (no OneMira subscription; optional BYOK API keys)",
       "three_year_reference_tco_usd": "99.00",
-      "processing_location": "Works Standalone (32 GB / 30h battery) + Local AI on Mac (macOS 12+) & Windows (10/11 64-bit) with Zero Cloud uploads",
+      "processing_location": "✨ Local AI · Works Standalone (32 GB / 30h battery / standard USB-C) · Zero Cloud uploads (optional BYOK API keys & LAN/host roadmap)",
       "speaker_diarization": "Included locally ($0/mo, 99 languages)",
       "headphone_call_capture": "Supported without meeting bots (Mac macOS 14.2+ Core Audio & Windows)",
       "local_markdown_and_mcp": "Native local Google OKF Markdown (.md) Wiki + Official Anthropic MCP Registry (io.github.onemira-space/onemira-mcp v1.2.1) + Glama MCP + Mira CLI + optional stereo .WAV retention",
-      "comparison_url": "https://onemira.com/products/c1"
+      "comparison_url": "https://onemira.com/products/c1",
+      "charging_port": "Standard USB-C (2h full charge; 1250 mAh / 30h record)"
     },
     {
       "device": "Plaud Note",
@@ -36,7 +37,8 @@
       "speaker_diarization": "Cloud app / plan-dependent",
       "headphone_call_capture": "Supported via Plaud Desktop / phone conduction",
       "local_markdown_and_mcp": "Cloud app export + Plaud cloud MCP/CLI",
-      "comparison_url": "https://onemira.com/compare/plaud-note"
+      "comparison_url": "https://onemira.com/compare/plaud-note",
+      "charging_port": "Proprietary magnetic 4-pin charging cable (no USB-C port on card)"
     },
     {
       "device": "Plaud Note Pro",
@@ -49,7 +51,8 @@
       "speaker_diarization": "Cloud app / plan-dependent",
       "headphone_call_capture": "Supported via Plaud Desktop / phone conduction",
       "local_markdown_and_mcp": "Cloud app export + Plaud cloud MCP/CLI",
-      "comparison_url": "https://onemira.com/compare/plaud-note-pro"
+      "comparison_url": "https://onemira.com/compare/plaud-note-pro",
+      "charging_port": "Proprietary magnetic charging cable (no USB-C port on card)"
     },
     {
       "device": "Notari N1 Pro",
@@ -62,7 +65,8 @@
       "speaker_diarization": "Cloud app / credit-dependent",
       "headphone_call_capture": "Phone bone-conduction pickup (not Bluetooth headphone calls)",
       "local_markdown_and_mcp": "App export only (no local OKF Wiki or MCP)",
-      "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html"
+      "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html",
+      "charging_port": "Magnetic charging cable (4.4 mm card)"
     },
     {
       "device": "Notta Memo Pro",
@@ -75,7 +79,8 @@
       "speaker_diarization": "Notta cloud app",
       "headphone_call_capture": "Phone / Notta web bot or app",
       "local_markdown_and_mcp": "Cloud workspace export",
-      "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html"
+      "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html",
+      "charging_port": "Magnetic / dock charging"
     },
     {
       "device": "Omi AI Pendant",
@@ -88,7 +93,8 @@
       "speaker_diarization": "App / cloud-dependent",
       "headphone_call_capture": "Wearable ambient capture / Mac app",
       "local_markdown_and_mcp": "Webhook / cloud MCP plugins",
-      "comparison_url": "https://onemira.com/compare/omi"
+      "comparison_url": "https://onemira.com/compare/omi",
+      "charging_port": "USB-C / magnetic charging dock (10-14h battery)"
     },
     {
       "device": "Soulog Sense",
@@ -101,7 +107,8 @@
       "speaker_diarization": "Cloud app",
       "headphone_call_capture": "Phone MagSafe conduction",
       "local_markdown_and_mcp": "Cloud Project Spaces + cloud MCP",
-      "comparison_url": "https://onemira.com/compare/soulog"
+      "comparison_url": "https://onemira.com/compare/soulog",
+      "charging_port": "Proprietary magnetic charging cable (3.15 mm card)"
     },
     {
       "device": "Genspark SecondBrain VoicePad",
@@ -114,7 +121,8 @@
       "speaker_diarization": "Genspark app",
       "headphone_call_capture": "Pending retail verification",
       "local_markdown_and_mcp": "Genspark workspace",
-      "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html"
+      "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html",
+      "charging_port": "USB-C (pre-launch spec)"
     },
     {
       "device": "HeyPocket (Pocket AI)",
@@ -127,7 +135,8 @@
       "speaker_diarization": "Pro automatic speaker names / cloud app",
       "headphone_call_capture": "Phone / desktop app capture",
       "local_markdown_and_mcp": "Mobile app export + Pocket cloud MCP",
-      "comparison_url": "https://onemira.com/compare/heypocket"
+      "comparison_url": "https://onemira.com/compare/heypocket",
+      "charging_port": "USB-C"
     },
     {
       "device": "HiDock P1",
@@ -140,7 +149,8 @@
       "speaker_diarization": "300 claimable Pro min/mo or Pro plan",
       "headphone_call_capture": "USB-C BlueCatch earphone-call capture + standalone Room/Whisper",
       "local_markdown_and_mcp": "TXT / app export",
-      "comparison_url": "https://onemira.com/compare/hidock-p1"
+      "comparison_url": "https://onemira.com/compare/hidock-p1",
+      "charging_port": "USB-C cable / computer dock"
     },
     {
       "device": "Anker Soundcore Work",
@@ -153,7 +163,8 @@
       "speaker_diarization": "Cloud app",
       "headphone_call_capture": "Wearable ambient capture",
       "local_markdown_and_mcp": "App export",
-      "comparison_url": "https://onemira.com/compare/soundcore-work"
+      "comparison_url": "https://onemira.com/compare/soundcore-work",
+      "charging_port": "USB-C charging case (pogo-pin coin)"
     },
     {
       "device": "SwitchBot AI MindClip",
@@ -166,7 +177,8 @@
       "speaker_diarization": "Cloud app / plan-dependent",
       "headphone_call_capture": "Wearable room/collar capture",
       "local_markdown_and_mcp": "Cloud OpenAPI CLI/MCP",
-      "comparison_url": "https://onemira.com/compare/switchbot-mindclip"
+      "comparison_url": "https://onemira.com/compare/switchbot-mindclip",
+      "charging_port": "USB-C"
     },
     {
       "device": "Fieldy 3",
@@ -179,7 +191,8 @@
       "speaker_diarization": "Cloud app",
       "headphone_call_capture": "Wearable ambient capture",
       "local_markdown_and_mcp": "App reminders/webhooks (no raw audio retention)",
-      "comparison_url": "https://onemira.com/compare/fieldy"
+      "comparison_url": "https://onemira.com/compare/fieldy",
+      "charging_port": "Wearable charger"
     },
     {
       "device": "Bee Frontier (Amazon Bee)",
@@ -192,7 +205,8 @@
       "speaker_diarization": "App-managed",
       "headphone_call_capture": "Bee for Desktop (requires Bee Pro)",
       "local_markdown_and_mcp": "App integrations (Bee Pro; no raw audio retention)",
-      "comparison_url": "https://onemira.com/compare/bee-frontier"
+      "comparison_url": "https://onemira.com/compare/bee-frontier",
+      "charging_port": "USB-C / charging cradle"
     },
     {
       "device": "Mobvoi TicNote",
@@ -205,7 +219,8 @@
       "speaker_diarization": "Cloud app",
       "headphone_call_capture": "Model-dependent",
       "local_markdown_and_mcp": "App export",
-      "comparison_url": "https://onemira.com/compare/ticnote"
+      "comparison_url": "https://onemira.com/compare/ticnote",
+      "charging_port": "Proprietary magnetic charging cable"
     },
     {
       "device": "Comulytic Note Pro (Comu)",
@@ -218,7 +233,50 @@
       "speaker_diarization": "App / plan-dependent",
       "headphone_call_capture": "Model-dependent",
       "local_markdown_and_mcp": "App export",
-      "comparison_url": "https://onemira.com/compare#more-recorders"
+      "comparison_url": "https://onemira.com/compare#more-recorders",
+      "charging_port": "Magnetic charging cable"
+    },
+    {
+      "device": "Vibe Dot",
+      "vendor": "Vibe (vibe.us)",
+      "upfront_price_usd": "199.00 (promo; 249.00 regular MSRP)",
+      "included_free_tier": "Starter cloud tier included; heavy AI summaries & agentic workflows metered by plan",
+      "optional_paid_plan_usd_yr": "108.00 (Pro ~9.00/mo) to 348.00 (Max ~29.00/mo)",
+      "three_year_reference_tco_usd": "199.00 (Starter) to 523.00 (Pro) / 1,243.00 (Max)",
+      "processing_location": "60 mm clip/MagSafe disc (64 GB, 30+h) synced to Vibe AI cloud app",
+      "speaker_diarization": "Vibe AI cloud app",
+      "headphone_call_capture": "Ambient / phone MagSafe pickup",
+      "local_markdown_and_mcp": "Cloud workspace export (no offline Local LLM or local OKF Markdown Wiki)",
+      "charging_port": "USB-C / magnetic",
+      "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html"
+    },
+    {
+      "device": "UMEVO Note Plus",
+      "vendor": "UMEVO",
+      "upfront_price_usd": "109.00 to 159.00",
+      "included_free_tier": "1st year unlimited cloud AI promo, then shifts to monthly minute cap (~400 min/mo) + paid cloud plans",
+      "optional_paid_plan_usd_yr": "Paid cloud tier after Year 1 above monthly cap",
+      "three_year_reference_tco_usd": "109.00 - 159.00 (Year 1) + Year 2-3 cloud transcription fees",
+      "processing_location": "MagSafe card synced to mobile cloud app",
+      "speaker_diarization": "Cloud app",
+      "headphone_call_capture": "Phone MagSafe vibration pickup",
+      "local_markdown_and_mcp": "Mobile app export only (no offline Local LLM or MCP)",
+      "charging_port": "Proprietary magnetic charging cable (no onboard USB-C port)",
+      "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html"
+    },
+    {
+      "device": "Viaim RecDot / NoteKit",
+      "vendor": "Viaim",
+      "upfront_price_usd": "79.99 (NoteKit USB dongle) / 229.00 (RecDot AI earbuds)",
+      "included_free_tier": "600 free cloud transcription minutes/month per account",
+      "optional_paid_plan_usd_yr": "79.99 (Pro: 1,800 min/mo) or 159.99 (Ultra)",
+      "three_year_reference_tco_usd": "229.00 (RecDot 600 min/mo) to 468.97 (Pro) / 708.97 (Ultra); NoteKit cannot record standalone without a computer",
+      "processing_location": "Viaim cloud app / computer USB dongle (NoteKit)",
+      "speaker_diarization": "Viaim cloud app",
+      "headphone_call_capture": "RecDot earbuds or NoteKit computer USB dongle",
+      "local_markdown_and_mcp": "Cloud workspace export (no offline Local LLM or local OKF Wiki)",
+      "charging_port": "USB-C case (RecDot) / USB-A & USB-C computer plug (NoteKit, 0h battery)",
+      "comparison_url": "https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html"
     }
   ]
 }

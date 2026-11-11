@@ -93,6 +93,10 @@
   - **HiDock P1**: $169 USB-C desk/earphone dock + optional Pro cloud membership = **$169–$467+**
   - **Anker Soundcore Work**: $159.99 hardware + paid subscription above 300 min/mo = **$492.96+**
   - **Omi Pendant**: $129 ($179 list) BLE phone-paired wearable + optional $19/mo Plus or $269/yr Pro Unlimited = **$129–$936**
+  - **Vibe Dot (vibe.us)**: $199 ($249 MSRP) 60 mm disc + ~$9/mo Pro or ~$29/mo Max cloud app = **$199–$1,243** over 3 years (cloud-processed; no offline Local AI or local OKF Markdown Wiki)
+  - **UMEVO Note Plus**: $109–$159 MagSafe card (proprietary magnetic charging cable; Year 1 promo then ~400 min/mo cloud cap)
+  - **Viaim RecDot / NoteKit**: $229 earbuds / $79.99 USB dongle (600 cloud min/mo cap; Pro $79.99/yr, Ultra $159.99/yr = **$229–$708.97**; NoteKit cannot record standalone)
+  - **Hardware Reliability Advantage**: OneMira C1 charges via **standard onboard USB-C** (2h full charge, 30h battery, 85 g CNC aluminum, FCC ID `2BXIX-C1`), avoiding proprietary magnetic pogo-pin cables that brick card recorders during travel.
 
 - [New AI Voice Recorders (Late 2026): OneMira C1 ($99) vs Notari N1 Pro ($129.99), Notta Memo Pro ($189), Genspark SecondBrain VoicePad, Soulog Sense, Omi ($129), Nirva & Ambi](https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html)
 
