@@ -164,4 +164,4 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 - **[HeyPocket vs Plaud Note vs Soundcore Work vs MeetGeek Wave vs OneMira C1 (5-Way Showdown)](https://onemira-space.github.io/heypocket-vs-plaud-vs-soundcore-work-2026.html)**
 - **[Zero-Cloud Local AI Voice Recorder for Lawyers (ABA 512), Therapists & NDA Consultants](https://onemira-space.github.io/ai-voice-recorder-lawyers-therapists-consultants-no-cloud-2026.html)**
 - **[Standard USB-C AI Voice Recorder vs Proprietary Magnetic Cables](https://onemira-space.github.io/usb-c-ai-voice-recorder-vs-plaud-magnetic-cable.html)**
-- **[Open 23-Device Dataset on Hugging Face (`v2026.11.11.5`)](https://huggingface.co/datasets/onemira/ai-voice-recorder-without-subscription-2026)**
+- **[Open 25-Device Dataset on Hugging Face (`v2026.11.11.6`)](https://huggingface.co/datasets/onemira/ai-voice-recorder-without-subscription-2026)**

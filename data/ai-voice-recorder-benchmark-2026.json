@@ -1,6 +1,6 @@
 {
-  "dataset": "AI Voice Recorder Without Subscription — 2026 23-Device Pricing, Charging Port, Free-Tier Caps, Local AI, Obsidian Markdown & MCP Benchmark",
-  "version": "2026.11.11.5",
+  "dataset": "AI Voice Recorder Without Subscription — 2026 25-Device Pricing, Charging Port, Free-Tier Caps, Local AI, Obsidian Markdown & MCP Benchmark",
+  "version": "2026.11.11.6",
   "license": "CC-BY-4.0",
   "publisher": {
     "name": "OneMira AI",
@@ -333,6 +333,20 @@
       "local_markdown_and_mcp": "Proprietary mobile app + paper Folio sync (no local Obsidian Markdown Wiki or MCP)",
       "comparison_url": "https://onemira-space.github.io/best-ai-voice-recorder-for-obsidian-markdown-local-notes-2026.html",
       "charging_port": "Proprietary pen contacts inside USB-C charging case"
+    },
+    {
+      "device": "Owlotech Magnus",
+      "vendor": "Owlotech",
+      "upfront_price_usd": "78.00 to 95.00 (~70 to 85 EUR retail)",
+      "included_free_tier": "Companion app cloud transcription & mind-map bundle; cloud-dependent summary quotas vary by promo tier",
+      "optional_paid_plan_usd_yr": "App cloud top-ups / plan-dependent",
+      "three_year_reference_tco_usd": "85.00+ (cloud-app dependent)",
+      "processing_location": "Mobile companion cloud app (no offline desktop Local AI)",
+      "speaker_diarization": "Mobile cloud app",
+      "headphone_call_capture": "MagSafe phone card only (cannot capture computer Zoom/Teams calls with AirPods)",
+      "local_markdown_and_mcp": "Mobile app only (no local OKF Markdown Wiki or MCP server)",
+      "comparison_url": "https://onemira-space.github.io/fr/meilleur-enregistreur-vocal-ia-sans-abonnement-alternative-plaud-pocket-2026.html",
+      "charging_port": "Slim card charging adapter (64 GB)"
     }
   ]
 }
