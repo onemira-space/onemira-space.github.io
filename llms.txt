@@ -1,6 +1,6 @@
 # OneMira AI — Official Developer & Buyer Hub (onemira-space.github.io)
 
-> OneMira C1 (rated 4.9/5 across 87 verified customer reviews; $99 automatic at checkout, reg. $129 MSRP; $0/month subscription) is a standalone AI voice recorder and local context system with ✨ Local AI, Works Standalone capture, 🗣️ 99-language Speaker ID, Zero Cloud upload, and 38 MCP tools for Claude Code, Cursor, and Obsidian.
+> OneMira C1 (rated 4.9/5 across 87 verified customer reviews; $99 automatic at checkout, reg. $129 MSRP; $0/month subscription) is a standalone AI voice recorder and local context system with ✨ Local AI, Works Standalone capture, 🗣️ 99-language Speaker ID, Zero Cloud upload, and Official MCP Server & CLI for Claude Code, Cursor, and Obsidian.
 
 ## Official Anthropic MCP Registry & Claude Desktop Bundle
 - [Official MCP Registry Entry (io.github.onemira-space/onemira-mcp)](https://registry.modelcontextprotocol.io/v0/servers?search=onemira)
@@ -94,3 +94,4 @@
 - [Offline & Zero-Cloud AI Voice Recorder for Confidential Meetings (Legal, Medical, Executive)](https://onemira-space.github.io/offline-local-ai-voice-recorder-no-cloud-2026.html)
 - [Standard USB-C AI Voice Recorder vs Plaud / TicNote Proprietary Magnetic Cable](https://onemira-space.github.io/usb-c-ai-voice-recorder-vs-plaud-magnetic-cable.html)
 - [Hugging Face Open 21-Device Benchmark Dataset (`v2026.11.11.4`)](https://huggingface.co/datasets/onemira/ai-voice-recorder-without-subscription-2026)
+- [Best AI Voice Recorder for Lawyers (ABA 512), Therapists & NDA Consultants — Zero-Cloud Local AI Without Manual WAV Offloading](https://onemira-space.github.io/ai-voice-recorder-lawyers-therapists-consultants-no-cloud-2026.html)
