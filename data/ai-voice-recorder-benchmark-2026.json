@@ -382,7 +382,7 @@
       "upfront_price_usd": "~215.00 (299,000 KRW)",
       "included_free_tier": "Cloud STT, summary & mind-map templates bundled via Seo&O cloud app",
       "optional_paid_plan_usd_yr": "0.00 (dependent on vendor cloud servers remaining free)",
-      "three_year_reference_tco_usd": "~215.00 (299,000 KRW — more than 2x OneMira C1 $99)",
+      "three_year_reference_tco_usd": "~215.00 (299,000 KRW — more than 2x OneMira C1 $84)",
       "processing_location": "Vendor cloud sync across mobile app & PC (no 100% air-gapped local LLM)",
       "speaker_diarization": "Cloud app STT",
       "headphone_call_capture": "Wearable capsule mic (no botless macOS Core Audio / Windows AirPods call tap)",
