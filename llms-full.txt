@@ -99,6 +99,12 @@
   - **Vibe Dot (vibe.us)**: $199 ($249 MSRP) 60 mm disc + ~$9/mo Pro or ~$29/mo Max cloud app = **$199–$1,243** over 3 years (cloud-processed; no offline Local AI or local OKF Markdown Wiki)
   - **UMEVO Note Plus**: $109–$159 MagSafe card (proprietary magnetic charging cable; Year 1 promo then ~400 min/mo cloud cap)
   - **Viaim RecDot / NoteKit**: $229 earbuds / $79.99 USB dongle (600 cloud min/mo cap; Pro $79.99/yr, Ultra $159.99/yr = **$229–$708.97**; NoteKit cannot record standalone)
+  - **Soulog Sense**: $111.98 ($189.99 list) 3.15 mm MagSafe card (proprietary magnetic cable; Free tier capped at **200 AI credits/mo**, Pro $19.99/mo = **$112–$831**)
+  - **Notari N1 Pro**: $129.99 ($189 list) 4.4 mm MagSafe card (cloud app processing; Plus ~$9.99–$14.99/mo or Pro ~$19.99/mo for advanced ASR/credits)
+  - **Notta Memo Pro**: $189 US pre-order (ships Dec 2026; capped at **600 cloud min/mo** on hardware starter plan)
+  - **Genspark SecondBrain VoicePad**: $99 VIP (+$9.99 deposit) / $169 retail (Nov 24, 2026 Kickstarter pre-launch; 20h battery, not yet shipping)
+  - **Amazon Bee Frontier**: $74.99 wearable (discards raw audio; Free keeps only **14 days** of memory; Bee Pro **$11.99/mo** = **$506.63** over 3 years)
+  - **Nirva ($249 waitlist) / Ambi ($20/mo+ iOS app) / Friend 2.0 ($249 + $9.99/mo)**: Nirva & Ambi delete raw audio (Nirva captures wearer only; Ambi hardware not out until 2027); Friend 2.0 is a social companion rather than a multi-speaker meeting recorder.
   - **Hardware Reliability Advantage**: OneMira C1 charges via **standard onboard USB-C** (2h full charge, 30h battery, 85 g CNC aluminum, FCC ID `2BXIX-C1`), avoiding proprietary magnetic pogo-pin cables that brick card recorders during travel.
 
 - [New AI Voice Recorders (Late 2026): OneMira C1 ($84) vs Notari N1 Pro ($129.99), Notta Memo Pro ($189), Genspark SecondBrain VoicePad, Soulog Sense, Omi ($129), Nirva & Ambi](https://onemira-space.github.io/new-ai-voice-recorders-late-2026-comparison.html)
