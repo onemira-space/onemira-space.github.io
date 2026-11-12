@@ -37,7 +37,7 @@
       "speaker_diarization": "Cloud app / plan-dependent",
       "headphone_call_capture": "Supported via Plaud Desktop / phone conduction",
       "local_markdown_and_mcp": "Cloud app export + Plaud cloud MCP/CLI",
-      "comparison_url": "https://onemira.com/compare/plaud-note",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "Proprietary magnetic 4-pin charging cable (no USB-C port on card)"
     },
     {
@@ -51,7 +51,7 @@
       "speaker_diarization": "Cloud app / plan-dependent",
       "headphone_call_capture": "Supported via Plaud Desktop / phone conduction",
       "local_markdown_and_mcp": "Cloud app export + Plaud cloud MCP/CLI",
-      "comparison_url": "https://onemira.com/compare/plaud-note-pro",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "Proprietary magnetic charging cable (no USB-C port on card)"
     },
     {
@@ -93,7 +93,7 @@
       "speaker_diarization": "App / cloud-dependent",
       "headphone_call_capture": "Wearable ambient capture / Mac app",
       "local_markdown_and_mcp": "Webhook / cloud MCP plugins",
-      "comparison_url": "https://onemira.com/compare/omi",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "USB-C / magnetic charging dock (10-14h battery)"
     },
     {
@@ -107,7 +107,7 @@
       "speaker_diarization": "Cloud app",
       "headphone_call_capture": "Phone MagSafe conduction",
       "local_markdown_and_mcp": "Cloud Project Spaces + cloud MCP",
-      "comparison_url": "https://onemira.com/compare/soulog",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "Proprietary magnetic charging cable (3.15 mm card)"
     },
     {
@@ -135,7 +135,7 @@
       "speaker_diarization": "Pro automatic speaker names / cloud app",
       "headphone_call_capture": "Phone / desktop app capture",
       "local_markdown_and_mcp": "Mobile app export + Pocket cloud MCP",
-      "comparison_url": "https://onemira.com/compare/heypocket",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "USB-C"
     },
     {
@@ -149,7 +149,7 @@
       "speaker_diarization": "300 claimable Pro min/mo or Pro plan",
       "headphone_call_capture": "USB-C BlueCatch earphone-call capture + standalone Room/Whisper",
       "local_markdown_and_mcp": "TXT / app export",
-      "comparison_url": "https://onemira.com/compare/hidock-p1",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "USB-C cable / computer dock"
     },
     {
@@ -163,7 +163,7 @@
       "speaker_diarization": "Cloud app",
       "headphone_call_capture": "Wearable ambient capture",
       "local_markdown_and_mcp": "App export",
-      "comparison_url": "https://onemira.com/compare/soundcore-work",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "USB-C charging case (pogo-pin coin)"
     },
     {
@@ -177,7 +177,7 @@
       "speaker_diarization": "Cloud app / plan-dependent",
       "headphone_call_capture": "Wearable room/collar capture",
       "local_markdown_and_mcp": "Cloud OpenAPI CLI/MCP",
-      "comparison_url": "https://onemira.com/compare/switchbot-mindclip",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "USB-C"
     },
     {
@@ -191,7 +191,7 @@
       "speaker_diarization": "Cloud app",
       "headphone_call_capture": "Wearable ambient capture",
       "local_markdown_and_mcp": "App reminders/webhooks (no raw audio retention)",
-      "comparison_url": "https://onemira.com/compare/fieldy",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "Wearable charger"
     },
     {
@@ -205,7 +205,7 @@
       "speaker_diarization": "App-managed",
       "headphone_call_capture": "Bee for Desktop (requires Bee Pro)",
       "local_markdown_and_mcp": "App integrations (Bee Pro; no raw audio retention)",
-      "comparison_url": "https://onemira.com/compare/bee-frontier",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "USB-C / charging cradle"
     },
     {
@@ -219,7 +219,7 @@
       "speaker_diarization": "Cloud app",
       "headphone_call_capture": "Model-dependent",
       "local_markdown_and_mcp": "App export",
-      "comparison_url": "https://onemira.com/compare/ticnote",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "Proprietary magnetic charging cable"
     },
     {
@@ -359,7 +359,7 @@
       "speaker_diarization": "Limitless cloud app",
       "headphone_call_capture": "Desktop app cloud stream required when wearing AirPods",
       "local_markdown_and_mcp": "Cloud web/app API only (no native local Google OKF Markdown Wiki)",
-      "comparison_url": "https://onemira.com/compare",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "USB-C port on wearable pendant"
     },
     {
@@ -373,7 +373,7 @@
       "speaker_diarization": "Cloud app processing",
       "headphone_call_capture": "Wearable room mic only (cannot capture far-end AirPods audio directly)",
       "local_markdown_and_mcp": "Cloud Slack/Notion export only (no offline local Google OKF Markdown Wiki)",
-      "comparison_url": "https://onemira.com/compare",
+      "comparison_url": "https://onemira.com/products/c1",
       "charging_port": "Proprietary wearable charging dock (20h battery)"
     },
     {

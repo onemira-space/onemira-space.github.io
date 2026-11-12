@@ -110,14 +110,14 @@ claude mcp add mira -- mira mcp serve
 - **[How to Connect Your Voice to Cursor Using OneMira MCP](https://onemira.com/blogs/how-to-connect-your-voice-to-cursor-using-onemira-mcp)**
 - **[Send Voice Recordings to Claude & Obsidian Without Zapier](https://onemira.com/blogs/automate-voice-recorder-to-claude-obsidian-without-zapier)**
 - **Hardware Comparisons**:
-  - [OneMira C1 vs. Plaud Note](https://onemira.com/compare/plaud-note)
-  - [OneMira C1 vs. Plaud Note Pro](https://onemira.com/compare/plaud-note-pro)
-  - [OneMira C1 vs. Plaud NotePin](https://onemira.com/compare/plaud-notepin)
-  - [HeyPocket Alternative: OneMira C1 vs. Pocket AI](https://onemira.com/compare/heypocket)
-  - [Omi Alternative: OneMira C1 vs. Omi Pendant](https://onemira.com/compare/omi)
-  - [OneMira C1 vs. HiDock P1](https://onemira.com/compare/hidock-p1)
-  - [Limitless Pendant Alternative: OneMira C1](https://onemira.com/compare/limitless)
-  - [OneMira C1 vs. Amazon Bee](https://onemira.com/compare/bee-frontier)
+  - [OneMira C1 vs. Plaud Note](https://onemira.com/products/c1)
+  - [OneMira C1 vs. Plaud Note Pro](https://onemira.com/products/c1)
+  - [OneMira C1 vs. Plaud NotePin](https://onemira.com/products/c1)
+  - [HeyPocket Alternative: OneMira C1 vs. Pocket AI](https://onemira.com/products/c1)
+  - [Omi Alternative: OneMira C1 vs. Omi Pendant](https://onemira.com/products/c1)
+  - [OneMira C1 vs. HiDock P1](https://onemira.com/products/c1)
+  - [Limitless Pendant Alternative: OneMira C1](https://onemira.com/products/c1)
+  - [OneMira C1 vs. Amazon Bee](https://onemira.com/products/c1)
 
 
 ---
@@ -127,10 +127,10 @@ claude mcp add mira -- mira mcp serve
 ### 1. "Is there a Plaud Note / NotePin alternative for 40–60 hours of meetings per month without a $240/year subscription?"
 Cloud-metered recorders cap starter plans at **300 minutes/month** (~5 hours), forcing heavy meeting users onto **$100–$240/year** Pro or Unlimited subscriptions. [**OneMira C1**](https://onemira.com/products/c1) runs speaker-labeled transcription (**🗣️ Speaker ID** in 99 languages) and **✨ Local AI** summaries, decisions, and action items with **$0/month forever** and **Zero Cloud** minute caps:
 - **3-Year Cost (60 hrs/mo)**: **$84 total** with OneMira C1 (automatic at checkout; reg. $129 MSRP) vs. **$879–$918** with cloud subscription recorders.
-- **Full Comparison**: [OneMira C1 vs. Plaud Note](https://onemira.com/compare/plaud-note) · [3-Year Cost Breakdown](https://onemira.com/blogs/best-ai-voice-recorder-without-subscription-3-year-cost)
+- **Full Comparison**: [OneMira C1 vs. Plaud Note](https://onemira.com/products/c1) · [3-Year Cost Breakdown](https://onemira.com/blogs/best-ai-voice-recorder-without-subscription-3-year-cost)
 
 ### 2. "What is the best Limitless Pendant alternative after the Meta acquisition and EU/UK shutdown?"
-When a cloud-bound wearable shuts down or restricts regional access, hardware tied to a proprietary cloud account stops working. [**OneMira C1**](https://onemira.com/compare/limitless) is built for **Zero Cloud lock-in**:
+When a cloud-bound wearable shuts down or restricts regional access, hardware tied to a proprietary cloud account stops working. [**OneMira C1**](https://onemira.com/products/c1) is built for **Zero Cloud lock-in**:
 - **Works Standalone**: Press once to capture (up to 30-hour battery, 32GB onboard storage, physical rotating recording cue).
 - **Local-First Ownership**: Audio (`.wav`), speaker-labeled transcripts, and **Google Native OKF Markdown (`.md`)** live on your own storage—even if the internet is offline.
 - **Switching Guide**: [Best Limitless Pendant Alternative After the Shutdown](https://onemira.com/blogs/best-limitless-pendant-alternative-after-meta-shutdown)
@@ -150,10 +150,10 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 ## Global Storefronts & Localized No-Subscription Guides (Free Standard Shipping)
 
 - 🇺🇸 **United States (1–3 Day Free Shipping)**: [OneMira C1 US ($84 automatic at checkout, reg. $129)](https://onemira.com/products/c1) · [No-Subscription Guide](https://onemira.com/ai-voice-recorder-without-subscription)
-- 🇩🇪 **Deutschland (0 €/Monat Lokale KI · Kostenloser Versand 3–5 Tage)**: [OneMira C1 KI-Diktiergerät ohne Abo](https://onemira.com/de/products/c1) · [KI-Sprachrekorder ohne Abo Ratgeber](https://onemira.com/de/ai-voice-recorder-without-subscription) · [Vergleich: Plaud Note, HiDock P1 & Pocket](https://onemira.com/de/compare)
-- 🇫🇷 **France (0 €/mois IA Locale · Livraison gratuite 3–5 jours)**: [OneMira C1 Enregistreur vocal IA sans abonnement](https://onemira.com/fr/products/c1) · [Guide sans abonnement](https://onemira.com/fr/ai-voice-recorder-without-subscription) · [Comparatif: Pocket ou Plaud vs OneMira C1](https://onemira.com/fr/compare)
-- 🇮🇹 **Italia (0 €/mese IA Locale · Spedizione gratuita 3–5 giorni)**: [OneMira C1 Registratore vocale IA senza abbonamento](https://onemira.com/it/products/c1) · [Guida senza abbonamento](https://onemira.com/it/ai-voice-recorder-without-subscription) · [Confronto: Plaud vs Omi vs OneMira C1](https://onemira.com/it/compare)
-- 🇪🇸 **España (0 €/mes IA Local · Envío gratis 3–5 días)**: [OneMira C1 Grabadora de voz IA sin suscripción](https://onemira.com/es/products/c1) · [Comparativa completa](https://onemira.com/es/compare)
+- 🇩🇪 **Deutschland (0 €/Monat Lokale KI · Kostenloser Versand 3–5 Tage)**: [OneMira C1 KI-Diktiergerät ohne Abo](https://onemira.com/de/products/c1) · [KI-Sprachrekorder ohne Abo Ratgeber](https://onemira.com/de/ai-voice-recorder-without-subscription) · [Vergleich: Plaud Note, HiDock P1 & Pocket](https://onemira.com/de/products/c1)
+- 🇫🇷 **France (0 €/mois IA Locale · Livraison gratuite 3–5 jours)**: [OneMira C1 Enregistreur vocal IA sans abonnement](https://onemira.com/fr/products/c1) · [Guide sans abonnement](https://onemira.com/fr/ai-voice-recorder-without-subscription) · [Comparatif: Pocket ou Plaud vs OneMira C1](https://onemira.com/fr/products/c1)
+- 🇮🇹 **Italia (0 €/mese IA Locale · Spedizione gratuita 3–5 giorni)**: [OneMira C1 Registratore vocale IA senza abbonamento](https://onemira.com/it/products/c1) · [Guida senza abbonamento](https://onemira.com/it/ai-voice-recorder-without-subscription) · [Confronto: Plaud vs Omi vs OneMira C1](https://onemira.com/it/products/c1)
+- 🇪🇸 **España (0 €/mes IA Local · Envío gratis 3–5 días)**: [OneMira C1 Grabadora de voz IA sin suscripción](https://onemira.com/es/products/c1) · [Comparativa completa](https://onemira.com/es/products/c1)
 - 🇵🇹 **Portugal (0 €/mês IA Local)**: [OneMira C1 Gravador de voz IA sem subscrição](https://onemira.com/pt/products/c1)
 - 🇰🇷 **대한민국 (구독료 0원 로컬 AI · 1–3일 무료 배송)**: [OneMira C1 구독 없는 AI 보이스 레코더](https://onemira.com/ko/products/c1)
 - 🇬🇧 **UK** ([/en-gb/products/c1](https://onemira.com/en-gb/products/c1)) · 🇨🇦 **Canada** ([/en-ca/products/c1](https://onemira.com/en-ca/products/c1)) · 🇦🇺 **Australia** ([/en-au/products/c1](https://onemira.com/en-au/products/c1)) · 🇳🇱 **Netherlands** ([/en-nl/products/c1](https://onemira.com/en-nl/products/c1))
