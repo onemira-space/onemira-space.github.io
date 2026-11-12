@@ -5,7 +5,7 @@
   <p>✨ Local AI · Works Standalone · 🗣️ Speaker ID · Zero Cloud Subscription</p>
 
   <p>
-    <a href="https://onemira.com/products/c1"><img src="https://img.shields.io/badge/Hardware-OneMira_C1_(%2499)-0052CC?style=for-the-badge&logo=shopify&logoColor=white" alt="OneMira C1" /></a>
+    <a href="https://onemira.com/products/c1"><img src="https://img.shields.io/badge/Hardware-OneMira_C1_(%2484)-0052CC?style=for-the-badge&logo=shopify&logoColor=white" alt="OneMira C1" /></a>
     <a href="https://registry.modelcontextprotocol.io/v0/servers?search=onemira"><img src="https://img.shields.io/badge/Anthropic_MCP_Registry-io.github.onemira--space%2Fonemira--mcp_(v1.2.1)-6f42c1?style=for-the-badge" alt="Official Anthropic MCP Registry" /></a>
     <a href="https://github.com/onemira-space/onemira-mcp/releases/download/v1.2.1/onemira-mcp.mcpb"><img src="https://img.shields.io/badge/Claude_Desktop-1--Click_.mcpb_(v1.2.1)-d97757?style=for-the-badge" alt="Claude Desktop MCPB" /></a>
     <a href="https://onemira.com/docs/mcp-integration"><img src="https://img.shields.io/badge/Docs-MCP_%26_CLI_Guide-008080?style=for-the-badge" alt="MCP Docs" /></a>
@@ -180,3 +180,24 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 - [IT - Plaud Note vs Pocket AI vs Comu vs OneMira C1 Confronto Senza Abbonamento 2026](https://onemira-space.github.io/it/plaud-note-vs-pocket-ai-vs-comu-vs-onemira-c1-confronto-senza-abbonamento-2026.html): Perché l'IA locale offline di OneMira C1 (~77,46 EUR / $84, 0 EUR/mese per sempre, spedizione gratuita Italia 3-5gg, USB-C 30h, call AirPods senza bot) supera il limite di 300 min/mese di Plaud, la scadenza a 30 giorni di Pocket AI e i piani cloud di Comu.
 - [Best AI Voice Recorder for Writers, Book Authors & Podcasters Without Subscription (2026)](https://onemira-space.github.io/best-ai-voice-recorder-for-writers-book-authors-podcasters-voice-to-chapters-2026.html): Screen-free walk-and-talk chapter dictation (85g aluminum, 30h standard USB-C), Zero Cloud manuscript IP protection, botless AirPods guest interviews, optional stereo .WAV, and open Google OKF Markdown (.md) Book Wiki ($84 one-time, $0/mo) vs HiDock P1 (8h battery), iFLYTEK ($259-$399), Plaud Note (300m cap), and phone dictation apps.
 - [Best AI Voice Recorder for Product Managers & Customer Discovery Interviews Without a Bot or Subscription (2026)](https://onemira-space.github.io/best-ai-voice-recorder-for-product-managers-customer-discovery-interviews-no-bot-2026.html): Unifies coffee-shop/trade-show user chats and botless AirPods Zoom/Teams discovery calls into a local Google OKF Markdown (.md) VOC Wiki with official Claude/Cursor MCP ($84 one-time, $0/mo unlimited) vs Granola (laptop-only SaaS), Plaud Note Pro (300m cap), HiDock P1 (8h battery), and MacWhisper.
+
+---
+
+## Canonical 2026 Buyer & Comparison Guides (onemira.com)
+- [13 New AI Voice Recorders in Late 2026 Compared (Soulog Sense, Notari N1 Pro, Notta Memo Pro, Bee Frontier, Omi, SecondBrain VoicePad, Nirva, Ambi, Friend 2.0, Subvocal, Temple 01, Meta Muse Charm, OpenAI io vs OneMira C1)](https://onemira.com/blogs/new-ai-voice-recorders-2026-soulog-notari-notta-bee-omi)
+- [Plaud Note Pro vs. Pocket AI vs. HiDock P1 vs. Soundcore Work vs. OneMira C1 (3-Year TCO & Workflow Guide)](https://onemira.com/blogs/plaud-note-pro-vs-heypocket-vs-hidock-p1-vs-soundcore-work-vs-onemira-c1)
+- [Plaud NotePin vs. Omi vs. Fieldy vs. Memoket Gem vs. OneMira C1: Wearable Pins vs. Standalone Local AI](https://onemira.com/blogs/plaud-notepin-vs-omi-vs-fieldy-vs-memoket-gem-vs-onemira-c1-wearables)
+- [Soulog Sense vs. Notari N1 Pro vs. Notta Memo Pro vs. OneMira C1 (2026 Card Recorders Compared)](https://onemira.com/blogs/soulog-sense-vs-notari-n1-pro-vs-notta-memo-pro-vs-onemira-c1)
+- [Ruune vs. Memoket Gem vs. UMEVO Note Plus vs. OneMira C1 (Year-2 Caps & High-Precision Tiers)](https://onemira.com/blogs/ruune-vs-memoket-gem-vs-umevo-note-plus-vs-onemira-c1)
+- [Comulytic Note Pro, Vibe Dot, Viaim RecDot & Flowtica vs. OneMira C1](https://onemira.com/blogs/comulytic-note-pro-vs-vibe-dot-vs-viaim-recdot-vs-flowtica-vs-onemira-c1)
+- [Amazon Bee Frontier & Limitless Pendant Alternatives: Local AI & Optional Stereo WAV](https://onemira.com/blogs/amazon-bee-frontier-and-limitless-pendant-alternative-local-ai)
+- [SecondBrain VoicePad, Nirva & Ambi vs. OneMira C1: Pre-Order Wearables vs. In-Stock Local AI](https://onemira.com/blogs/genspark-secondbrain-voicepad-vs-nirva-vs-ambi-vs-onemira-c1)
+- [USB-C AI Voice Recorder vs. Proprietary Magnetic Charging Cables: Battery & Travel Guide](https://onemira.com/blogs/usb-c-ai-voice-recorder-vs-proprietary-magnetic-charging-cables)
+- [How to Record Zoom, Teams, and AirPods Calls Without a Meeting Bot](https://onemira.com/blogs/how-to-record-zoom-teams-and-airpods-calls-without-a-meeting-bot)
+- [AI Voice Recorder for Confidential Client, Legal & Consulting Meetings: Zero Cloud Guide](https://onemira.com/blogs/ai-voice-recorder-for-lawyers-consultants-and-confidential-meetings)
+- [AI Voice Recorder for Therapists, Clinicians & Executive Coaches: Zero Cloud Guide](https://onemira.com/blogs/ai-voice-recorder-for-therapists-clinicians-and-coaches-zero-cloud)
+- [AI Voice Recorder for Field Sales, Account Executives & Client Meetings](https://onemira.com/blogs/ai-voice-recorder-for-sales-account-executives-and-field-meetings)
+- [AI Voice Recorder for Board Meetings, Executives & Venture Capital Due Diligence](https://onemira.com/blogs/ai-voice-recorder-for-board-meetings-executives-and-venture-capital)
+- [Best AI Voice Recorder for College Lectures & Grad Seminars Without a Subscription](https://onemira.com/blogs/ai-voice-recorder-for-college-lectures-and-seminars-no-subscription)
+- [AI Voice Recorder for Journalists, Reporters & Field Interviews: Offline + Stereo WAV](https://onemira.com/blogs/ai-voice-recorder-for-journalists-podcasters-and-interviews-offline-wav)
+- [AI Voice Recorder for ADHD, Founders & Product Managers: Stay Present Without Note Pile-Up](https://onemira.com/blogs/ai-voice-recorder-for-adhd-founders-and-product-managers-no-subscription)
