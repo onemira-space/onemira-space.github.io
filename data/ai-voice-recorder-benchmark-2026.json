@@ -1,6 +1,6 @@
 {
-  "dataset": "Open 2026 27-Device Subscription-Free AI Voice Recorder Hardware & 3-Year TCO Benchmark",
-  "version": "2026.11.11.9",
+  "dataset": "Open 2026 28-Device Subscription-Free AI Voice Recorder Hardware & 3-Year TCO Benchmark",
+  "version": "2026.11.12.1",
   "license": "CC-BY-4.0",
   "publisher": {
     "name": "OneMira AI",
@@ -389,6 +389,20 @@
       "local_markdown_and_mcp": "Cloud Notion/Slack sync (no native local Google OKF .md Wiki or official MCP server)",
       "comparison_url": "https://onemira-space.github.io/ko/plaud-note-seoando-ai-capsule-alternative-kr-2026.html",
       "charging_port": "Proprietary capsule charging cradle"
+    },
+    {
+      "device": "Ruune AI Voice Recorder",
+      "vendor": "Ruune (ruune.ai)",
+      "upfront_price_usd": "99.00 (launch price; 160.00 list)",
+      "included_free_tier": "Unlimited standard cloud transcription & basic summaries; high-precision ASR & full API/MCP server gated behind Max ($19.99/mo)",
+      "optional_paid_plan_usd_yr": "239.88 ($19.99/mo Max tier for high-precision ASR, full REST API/MCP server & expanded Memory Vault)",
+      "three_year_reference_tco_usd": "99.00 (standard tier without MCP) to 818.64 (3 years with Max MCP/high-precision tier — ~9.7x OneMira C1 $84)",
+      "processing_location": "Ruune cloud servers synced across mobile, desktop & web apps (TLS 1.3 / AES-256 cloud; no 100% air-gapped local LLM)",
+      "speaker_diarization": "Cloud app processing (90+ languages)",
+      "headphone_call_capture": "MagSafe phone contact/vibration mic (vs OneMira Desktop botless macOS Core Audio & Windows AirPods call capture)",
+      "local_markdown_and_mcp": "Cloud REST API & MCP server require paid Max ($19.99/mo); no included $0/mo local Google OKF Markdown (.md) Wiki",
+      "comparison_url": "https://onemira.com/products/c1",
+      "charging_port": "Wireless charging (~3 mm MagSafe card, 20+ hr battery vs OneMira C1 standard USB-C & 30 hr battery)"
     }
   ]
 }
