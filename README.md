@@ -209,3 +209,4 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 
 - [Google Native OKF Meeting Note Schema & Markdown Template](https://onemira-space.github.io/okf-meeting-schema.html) ([Raw `.md` Template](https://onemira-space.github.io/templates/okf-meeting-note-template.md))
 - [Official OneMira MCP & CLI Documentation](https://onemira.com/docs/mcp-integration)
+- [OneMira C1 Official Press Kit & 2026 3-Year TCO Study](https://onemira.com/press)
