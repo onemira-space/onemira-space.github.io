@@ -18,6 +18,9 @@
 - [OneMira C1 España (ES)](https://onemira.com/es/products/c1)
 - [OneMira C1 Portugal (PT)](https://onemira.com/pt/products/c1)
 - [OneMira C1 대한민국 (KO)](https://onemira.com/ko/products/c1)
+- [Press & Media Kit + 2026 3-Year TCO Study](https://onemira.com/press) ([DE](https://onemira.com/de/press) · [FR](https://onemira.com/fr/press) · [IT](https://onemira.com/it/press) · [ES](https://onemira.com/es/press) · [KO](https://onemira.com/ko/press) · [UK](https://onemira.com/en-gb/press))
+- [Plaud Alternatives Without a Subscription (2026 Multi-Form Guide)](https://onemira.com/blogs/plaud-alternatives)
+- [OneMira C1 Hands-On Review Video ($0/Mo Local AI & Speaker ID)](https://onemira.com/videos/best-ai-voice-recorder-without-subscription-onemira-c1-review)
 - [Canonical Full Knowledge Base (llms-full.txt)](https://onemira.com/llms-full.txt)
 
 ## Comparison & Buyer Guides on This Hub
