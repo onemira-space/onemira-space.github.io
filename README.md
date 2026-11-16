@@ -116,9 +116,12 @@ claude mcp add mira -- mira mcp serve
   - [HeyPocket Alternative: OneMira C1 vs. Pocket AI](https://onemira.com/compare/heypocket)
   - [Omi Alternative: OneMira C1 vs. Omi Pendant](https://onemira.com/compare/omi)
   - [OneMira C1 vs. HiDock P1](https://onemira.com/compare/hidock-p1)
-  - [Limitless Pendant Alternative: OneMira C1](https://onemira.com/compare/limitless-pendant)
-  - [OneMira C1 vs. Amazon Bee](https://onemira.com/compare/bee-pioneer)
-- [OneMira C1 vs. Comulytic Note Pro](https://onemira.com/compare/comulytic-note-pro)
+  - [Limitless Pendant Alternative: OneMira C1](https://onemira.com/compare/limitless)
+  - [OneMira C1 vs. Amazon Bee Frontier](https://onemira.com/compare/bee-frontier)
+  - [OneMira C1 vs. Comulytic Note Pro, Vibe Dot & Viaim](https://onemira.com/blogs/comulytic-note-pro-vs-vibe-dot-vs-viaim-recdot-vs-flowtica-vs-onemira-c1)
+  - [Plaud Alternatives Without a Subscription (2026 Multi-Form Guide)](https://onemira.com/blogs/plaud-alternatives)
+  - [OneMira C1 Hands-On Review Video ($0/Mo Local AI)](https://onemira.com/videos/best-ai-voice-recorder-without-subscription-onemira-c1-review)
+  - [OneMira C1 Official Press Kit & 2026 3-Year TCO Study](https://onemira.com/press) ([DE](https://onemira.com/de/press) · [FR](https://onemira.com/fr/press) · [IT](https://onemira.com/it/press) · [ES](https://onemira.com/es/press) · [KO](https://onemira.com/ko/press) · [UK](https://onemira.com/en-gb/press))
 - [Jamie vs. Granola vs. Krisp vs. Meetily vs. OneMira C1 (Bot-Free Speaker ID & Zero-Cloud)](https://onemira-space.github.io/jamie-vs-granola-vs-krisp-vs-meetily-vs-onemira-c1-speaker-id-no-bot-2026.html)
 
 
