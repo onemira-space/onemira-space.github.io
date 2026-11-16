@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Google Native OKF Meeting Note Schema &amp; Template (OneMira C1 Open Standard)</title>
+  <meta name="description" content="Open Google Native OKF (Open Knowledge Format) Markdown schema, YAML frontmatter specification, Speaker ID conventions, and MCP query paths used by OneMira C1 and OneMira Desktop." />
+  <link rel="canonical" href="https://onemira-space.github.io/okf-meeting-schema.html" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"TechArticle","headline":"Google Native OKF Meeting Note Schema & Markdown Template","description":"Open Markdown schema with YAML frontmatter, deterministic wikilinks, and Speaker ID attributes for local-first AI voice notes and MCP agents.","author":{"@type":"Organization","name":"OneMira AI","url":"https://onemira.com/products/c1"},"about":{"@type":"Product","name":"OneMira C1 AI Voice Recorder","url":"https://onemira.com/products/c1"}}</script>
+  <style>
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;max-width:860px;margin:0 auto;padding:32px 20px;color:#111;line-height:1.65;background:#fafafa}
+    a{color:#0052cc}
+    h1,h2{line-height:1.25}
+    .card{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:20px 24px;margin:20px 0}
+    pre{background:#0f172a;color:#e2e8f0;padding:16px;border-radius:10px;overflow:auto;font-size:13px}
+    table{width:100%;border-collapse:collapse;background:#fff;margin:16px 0}
+    th,td{border:1px solid #e5e7eb;padding:10px 12px;text-align:left;vertical-align:top}
+    th{background:#f3f4f6}
+  </style>
+</head>
+<body>
+  <p><a href="https://onemira-space.github.io/">OneMira Open Developer Hub</a> &middot; <a href="https://onemira.com/products/c1">OneMira C1 Hardware</a> &middot; <a href="https://onemira.com/docs/mcp-integration">MCP &amp; CLI Docs</a></p>
+  <h1>Google Native OKF Meeting Note Schema &amp; Markdown Template</h1>
+  <p><strong>Why open local files matter:</strong> Cloud-bound voice recorders lock transcripts inside proprietary mobile apps and charge monthly quotas after 300 minutes. <a href="https://onemira.com/products/c1">OneMira C1</a> (✨ Local AI · Works Standalone · 🗣️ Speaker ID · Zero Cloud) stores every transcript and Wiki topic in plain <strong>Google Native OKF Markdown</strong> so developers, consultants, researchers, and writers own their knowledge base forever.</p>
+
+  <div class="card">
+    <h2>1. Key Schema Guarantees</h2>
+    <ul>
+      <li><strong>Deterministic YAML Frontmatter</strong>: Machine-parseable timestamps, device provenance, speaker roster, and wikilink topics compatible with Obsidian, Git, ripgrep, and MCP tools.</li>
+      <li><strong>Works Standalone Hardware Capture</strong>: C1 captures up to 30 hours onto 32 GB onboard storage with a physical rotating aluminum turntable cue, then syncs via Bluetooth 5.4 or USB-C to <a href="https://onemira.com/download">OneMira Desktop</a>.</li>
+      <li><strong>Direct Agent Access via Official MCP &amp; Mira CLI</strong>: Connect Cursor, Claude Desktop, Claude Code, ChatGPT, or Obsidian using the <a href="https://onemira.com/docs/mcp-integration">OneMira MCP Integration Guide</a> and <a href="https://github.com/onemira-space/onemira-mcp">onemira-space/onemira-mcp</a>.</li>
+      <li><strong>User-Controlled Audio Retention</strong>: Keep stereo <code>.WAV</code> originals locally or retain compact Markdown context only, with <code>$0/month</code> recurring software fee.</li>
+    </ul>
+  </div>
+
+  <h2>2. Standard OKF YAML Frontmatter Specification</h2>
+  <table>
+    <thead><tr><th>Field</th><th>Type</th><th>Purpose</th></tr></thead>
+    <tbody>
+      <tr><td><code>schema</code></td><td>string</td><td>Standard identifier (<code>google-okf-v0.2</code>)</td></tr>
+      <tr><td><code>type</code></td><td>enum</td><td><code>meeting-note</code> | <code>wiki-topic</code> | <code>speaker-profile</code></td></tr>
+      <tr><td><code>speakers</code></td><td>array</td><td>Local Speaker ID map generated across 99 supported languages</td></tr>
+      <tr><td><code>topics</code></td><td>array</td><td>Deterministic Markdown backlinks (<code>[[Topic]]</code>) auto-maintained by OneMira Wiki</td></tr>
+      <tr><td><code>cloud_upload</code></td><td>boolean</td><td>Reflects Zero Cloud local transcription boundary when running offline Local AI</td></tr>
+    </tbody>
+  </table>
+
+  <h2>3. Copy-Paste Reference Template</h2>
+  <p>Raw template file: <a href="https://onemira-space.github.io/templates/okf-meeting-note-template.md"><code>templates/okf-meeting-note-template.md</code></a></p>
+  <pre>---
+schema: google-okf-v0.2
+type: meeting-note
+title: "Product &amp; Architecture Sync"
+date: 2026-11-16T10:00:00Z
+source_device: OneMira C1 (Local ASR · Speaker ID)
+cloud_upload: false
+topics:
+  - "[[Local-First Audio Context]]"
+  - "[[MCP &amp; CLI Integrations]]"
+---</pre>
+
+  <div class="card">
+    <h2>4. Explore OneMira Hardware &amp; Open Benchmarks</h2>
+    <ul>
+      <li><a href="https://onemira.com/products/c1"><strong>OneMira C1 Product Page</strong></a> — Standalone AI voice recorder with built-in Local AI &amp; Zero Cloud subscription.</li>
+      <li><a href="https://onemira.com/docs/mcp-integration"><strong>Official MCP &amp; CLI Setup Guide</strong></a> — Connect local voice context to Claude, ChatGPT, Cursor &amp; Obsidian.</li>
+      <li><a href="https://onemira.com/compare"><strong>2026 Hardware &amp; TCO Comparisons</strong></a> — Transparent 3-year cost breakdown vs subscription recorders.</li>
+    </ul>
+  </div>
+</body>
+</html>

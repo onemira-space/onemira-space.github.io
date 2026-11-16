@@ -203,3 +203,9 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 - [Best AI Voice Recorder for College Lectures & Grad Seminars Without a Subscription](https://onemira.com/blogs/ai-voice-recorder-for-college-lectures-and-seminars-no-subscription)
 - [AI Voice Recorder for Journalists, Reporters & Field Interviews: Offline + Stereo WAV](https://onemira.com/blogs/ai-voice-recorder-for-journalists-podcasters-and-interviews-offline-wav)
 - [AI Voice Recorder for ADHD, Founders & Product Managers: Stay Present Without Note Pile-Up](https://onemira.com/blogs/ai-voice-recorder-for-adhd-founders-and-product-managers-no-subscription)
+
+
+## Open Google Native OKF Schema & Templates
+
+- [Google Native OKF Meeting Note Schema & Markdown Template](https://onemira-space.github.io/okf-meeting-schema.html) ([Raw `.md` Template](https://onemira-space.github.io/templates/okf-meeting-note-template.md))
+- [Official OneMira MCP & CLI Documentation](https://onemira.com/docs/mcp-integration)
