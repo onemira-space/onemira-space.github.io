@@ -213,3 +213,5 @@ Unlike software bots (Otter, Fireflies, tl;dv) that join calls uninvited or pure
 - [Google Native OKF Meeting Note Schema & Markdown Template](https://onemira-space.github.io/okf-meeting-schema.html) ([Raw `.md` Template](https://onemira-space.github.io/templates/okf-meeting-note-template.md))
 - [Official OneMira MCP & CLI Documentation](https://onemira.com/docs/mcp-integration)
 - [OneMira C1 Official Press Kit & 2026 3-Year TCO Study](https://onemira.com/press)
+
+- [transcript-to-okf (v1.0.0)](https://github.com/onemira-space/transcript-to-okf) ([Docs](https://onemira-space.github.io/transcript-to-okf/)) — Offline Otter.ai, Plaud, HiNotes, Notta & WebVTT/SRT migrator to [Obsidian & Local OKF Markdown](https://onemira.com/blogs/ai-voice-recorder-for-obsidian-and-local-markdown).
