@@ -75,11 +75,11 @@ brew install okf-wiki-mcp</code></pre>
         <tr><th>Tool</th><th>Purpose</th></tr>
       </thead>
       <tbody>
-        <tr><td><code>okf_search</code></td><td>Full-text search across local Markdown transcripts and wiki notes with snippet context.</td></tr>
-        <tr><td><code>okf_action_items</code></td><td>Extract open or completed Markdown checkboxes (<code>- [ ]</code> / <code>- [x]</code>) with speaker and file attribution.</td></tr>
-        <tr><td><code>okf_backlinks</code></td><td>Resolve incoming and outgoing <code>[[wiki-links]]</code> across topics, projects, and people profiles.</td></tr>
-        <tr><td><code>okf_read_note</code></td><td>Read a specific vault note safely inside the confined <code>--vault</code> directory.</td></tr>
-        <tr><td><code>okf_vault_stats</code></td><td>Summarize note counts, frontmatter coverage, link density, and pending action items.</td></tr>
+        <tr><td><code>okf_search_meetings</code></td><td>Search local <code>.md</code> transcripts and notes by keyword, <code>speaker</code>, <code>tag</code>, and ISO <code>fromDate</code>/<code>toDate</code>.</td></tr>
+        <tr><td><code>okf_list_action_items</code></td><td>Extract <code>- [ ]</code> / <code>- [x]</code> action items across all sessions filtered by <code>status</code> and <code>@owner</code>.</td></tr>
+        <tr><td><code>okf_read_note</code></td><td>Read a note by relative path, slug, or <code>[[wiki-link]]</code> title, including frontmatter and incoming backlinks.</td></tr>
+        <tr><td><code>okf_topic_graph</code></td><td>Compute the relational <code>[[wiki-link]]</code> graph, top referenced entities, and unresolved links.</td></tr>
+        <tr><td><code>okf_vault_stats</code></td><td>Audit total notes, YAML frontmatter coverage, unique speakers, and action-item completion counts.</td></tr>
       </tbody>
     </table>
 
