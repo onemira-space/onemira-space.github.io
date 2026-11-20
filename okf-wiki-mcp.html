@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>okf-wiki-mcp — Zero-Dependency Offline MCP Server &amp; CLI for Local Markdown Meeting Vaults</title>
+  <meta name="description" content="Open-source (MIT), zero-dependency Model Context Protocol (MCP) stdio server and CLI to search local Google OKF v0.2 and Obsidian Markdown meeting transcripts, action items, and wiki-links with zero cloud upload." />
+  <link rel="canonical" href="https://onemira-space.github.io/okf-wiki-mcp.html" />
+  <style>
+    :root { color-scheme: light; --bg:#ffffff; --fg:#111827; --muted:#4b5563; --border:#e5e7eb; --code:#f3f4f6; --accent:#111827; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--fg); line-height: 1.65; }
+    main { max-width: 780px; margin: 0 auto; padding: 48px 24px 72px; }
+    h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 12px; letter-spacing: -0.02em; }
+    h2 { font-size: 1.25rem; margin: 36px 0 12px; border-bottom: 1px solid var(--border); padding-bottom: 6px; }
+    p, li { color: var(--muted); }
+    strong, code { color: var(--fg); }
+    pre { background: var(--code); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; overflow-x: auto; font-size: 0.9rem; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 0.92em; }
+    .badges { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 16px 0 24px; }
+    .links { display: flex; flex-wrap: wrap; gap: 16px; margin: 20px 0 28px; font-weight: 500; }
+    a { color: #0f172a; text-decoration: underline; text-underline-offset: 3px; }
+    table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 0.94rem; }
+    th, td { text-align: left; border-bottom: 1px solid var(--border); padding: 10px 8px; vertical-align: top; }
+    th { color: var(--fg); font-weight: 600; }
+    footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--border); font-size: 0.9rem; color: var(--muted); display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>okf-wiki-mcp</h1>
+    <p><strong>Zero-dependency, 100% offline Model Context Protocol (MCP) stdio server and CLI</strong> for querying local Google OKF v0.2 and Obsidian Markdown meeting transcripts, YAML frontmatter, <code>[[wiki-links]]</code>, and open action items inside Claude Desktop, Claude Code, Cursor, Windsurf, and OneMira.</p>
+
+    <div class="badges">
+      <a href="https://glama.ai/mcp/servers/onemira-space/okf-wiki-mcp"><img src="https://glama.ai/mcp/servers/onemira-space/okf-wiki-mcp/badges/score.svg" alt="okf-wiki-mcp Glama MCP server score" /></a>
+      <a href="https://www.opensourcealternatives.to"><img src="https://www.opensourcealternatives.to/badge-osa.svg" alt="As seen on Open Source Alternatives"></a>
+    </div>
+
+    <div class="links">
+      <a href="https://github.com/onemira-space/okf-wiki-mcp">GitHub Repository (MIT)</a>
+      <a href="https://www.npmjs.com/package/okf-wiki-mcp">npm Package (v1.0.3)</a>
+      <a href="https://registry.modelcontextprotocol.io/v0.1/servers?search=okf-wiki-mcp">Official MCP Registry</a>
+      <a href="https://onemira.com/docs/mcp-integration">OneMira MCP Integration Docs</a>
+    </div>
+
+    <h2>Why okf-wiki-mcp?</h2>
+    <ul>
+      <li><strong>Open-source local alternative to cloud meeting-memory silos</strong> (Otter.ai, Fireflies, Plaud Cloud, Granola) — your meeting notes remain plain local <code>.md</code> files on disk.</li>
+      <li><strong>Zero npm runtime dependencies</strong> — pure Node.js <code>&gt;=18</code> standard library (<code>node:fs</code>, <code>node:path</code>), auditable in under 350 lines with zero outbound network calls.</li>
+      <li><strong>Built-in security boundaries</strong> — path-traversal protection and strict <code>--vault</code> root confinement.</li>
+      <li><strong>Compatible with any Markdown vault</strong> — works with Obsidian vaults, transcripts migrated via <a href="https://github.com/onemira-space/transcript-to-okf">transcript-to-okf</a>, or local context captured with <a href="https://onemira.com/products/c1">OneMira C1</a>.</li>
+    </ul>
+
+    <h2>Quick Start</h2>
+    <pre><code># Run directly via npx (zero global install)
+npx -y okf-wiki-mcp --vault ~/Documents/Meetings stats
+
+# Or install via Homebrew
+brew tap onemira-space/tap https://github.com/onemira-space/homebrew-tap
+brew install okf-wiki-mcp</code></pre>
+
+    <h2>Connect to Claude Desktop, Claude Code &amp; Cursor</h2>
+    <pre><code>{
+  "mcpServers": {
+    "okf-wiki": {
+      "command": "npx",
+      "args": ["-y", "okf-wiki-mcp", "--vault", "/absolute/path/to/your/vault"]
+    }
+  }
+}</code></pre>
+
+    <h2>Exposed MCP Tools</h2>
+    <table>
+      <thead>
+        <tr><th>Tool</th><th>Purpose</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><code>okf_search</code></td><td>Full-text search across local Markdown transcripts and wiki notes with snippet context.</td></tr>
+        <tr><td><code>okf_action_items</code></td><td>Extract open or completed Markdown checkboxes (<code>- [ ]</code> / <code>- [x]</code>) with speaker and file attribution.</td></tr>
+        <tr><td><code>okf_backlinks</code></td><td>Resolve incoming and outgoing <code>[[wiki-links]]</code> across topics, projects, and people profiles.</td></tr>
+        <tr><td><code>okf_read_note</code></td><td>Read a specific vault note safely inside the confined <code>--vault</code> directory.</td></tr>
+        <tr><td><code>okf_vault_stats</code></td><td>Summarize note counts, frontmatter coverage, link density, and pending action items.</td></tr>
+      </tbody>
+    </table>
+
+    <footer>
+      <span>MIT License · Maintained by <a href="https://onemira.com">OneMira Engineering</a></span>
+      <a href="https://www.opensourcealternatives.to"><img src="https://www.opensourcealternatives.to/badge-osa.svg" alt="As seen on Open Source Alternatives"></a>
+    </footer>
+  </main>
+</body>
+</html>
