@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>OneMira Release Automation</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description (PAD) for OneMira Desktop</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>OneMira</Company_Name>
+    <Address_1></Address_1>
+    <City_Town>San Francisco</City_Town>
+    <State_Province>CA</State_Province>
+    <Country>United States</Country>
+    <Company_WebSite_URL>https://onemira.com/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>OneMira</Author_First_Name>
+      <Author_Last_Name>Team</Author_Last_Name>
+      <Author_Email>hello@onemira.com</Author_Email>
+      <Contact_First_Name>OneMira</Contact_First_Name>
+      <Contact_Last_Name>Support</Contact_Last_Name>
+      <Contact_Email>hello@onemira.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>hello@onemira.com</Sales_Email>
+      <Support_Email>hello@onemira.com</Support_Email>
+      <General_Email>hello@onemira.com</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>OneMira Desktop</Program_Name>
+    <Program_Version>1.0.25</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>19</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win10 x64,Win11 x64,macOS 12+</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Local real-time transcription across 99 languages, automatic speaker separation, built-in offline AI summaries and mind maps, editable OKF Markdown Wiki, and CLI/MCP support.</Program_Change_Info>
+    <Program_Category_Class>Business::Office Suites &amp; Tools</Program_Category_Class>
+    <Program_System_Requirements>Windows 10/11 (64-bit) or macOS 12+</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>118527185</File_Size_Bytes>
+      <File_Size_K>115749</File_Size_K>
+      <File_Size_MB>113.04</File_Size_MB>
+      <Filename_Versioned>OneMira-Windows-1.0.25-x64-setup.exe</Filename_Versioned>
+      <Filename_Previous>OneMira-Windows-x64-setup.exe</Filename_Previous>
+      <Filename_Generic>OneMira-Desktop-Setup.exe</Filename_Generic>
+      <Filename_Long>OneMira-Windows-1.0.25-x64-setup.exe</Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count></Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>AI voice recorder, local AI transcription, offline meeting notes, speaker diarization, markdown wiki, MCP server, no subscription</Keywords>
+      <Char_Desc_45>Local AI transcription &amp; meeting notes ($0/mo)</Char_Desc_45>
+      <Char_Desc_80>Local AI transcription, speaker ID, offline summaries, Markdown Wiki &amp; MCP app.</Char_Desc_80>
+      <Char_Desc_250>OneMira Desktop runs unlimited local transcription in 99 languages with automatic speaker labeling, built-in offline AI summaries and mind maps, editable Markdown Wiki files, and optional ChatGPT/Claude/Cursor CLI and MCP integration—$0/mo forever.</Char_Desc_250>
+      <Char_Desc_450>OneMira Desktop is the local AI transcription and structured Wiki companion for the OneMira C1 standalone AI voice recorder. After a one-time app and model download, transcription, speaker separation, and built-in AI meeting notes and mind maps run completely offline on your Mac or Windows PC with zero monthly subscription, no OneMira account required, and full file ownership in editable Markdown (.md) and optional stereo WAV audio.</Char_Desc_450>
+      <Char_Desc_2000>OneMira Desktop pairs with the OneMira C1 standalone AI voice recorder to turn in-person meetings, interviews, lectures, and Zoom/Teams/Google Meet headphone calls (with no meeting bots) into searchable, structured local knowledge—with $0 monthly subscription fees and no 300-minute caps.
+
+Key capabilities:
+- Unlimited local speech transcription in 99 languages with automatic speaker labeling
+- Built-in offline AI for meeting summaries, decisions, action items, and mind maps after one-time model download
+- Optional API key integration (OpenAI, Anthropic, Google Gemini, DeepSeek, OpenRouter, Ollama, LM Studio, or custom OpenAI-compatible endpoints)
+- Native CLI and Model Context Protocol (MCP) support for Claude, ChatGPT, and Cursor
+- Open Knowledge Format (OKF) plain Markdown (.md) notes and auto-connected Wiki stored locally on your computer, plus user-controlled stereo WAV audio retention
+- Zero OneMira account required and no forced cloud audio uploads
+
+Downloads:
+- Windows 10/11 (x64): v1.0.25 (SHA256: 5e749e1e6895119c7509353ac3378207168e3f5bc854816b5044ebca00d9cce1)
+- macOS 12+ (Apple Silicon &amp; Intel, Apple-notarized): v1.0.54 available at https://onemira.com/download</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://onemira.com/products/c1</Application_Info_URL>
+      <Application_Order_URL>https://onemira.com/products/c1</Application_Order_URL>
+      <Application_Screenshot_URL>https://cdn.shopify.com/s/files/1/0822/6897/9444/files/onemira-site-images-og-default-44eda50983.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://cdn.shopify.com/s/files/1/0822/6897/9444/files/onemira-site-product-onemira-app-icon-026551886f.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://onemira-space.github.io/onemira-desktop-pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.11.19.1/OneMira-Windows-1.0.25-x64-setup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://onemira.com/download</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.11.19.1/OneMira-macOS-1.0.54-arm64.dmg</Additional_Download_URL_1>
+      <Additional_Download_URL_2>https://github.com/onemira-space/onemira-updates/releases/download/bundle-v2026.11.19.1/OneMira-macOS-1.0.54-x86_64.dmg</Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Freeware companion desktop application for OneMira C1. May be listed and linked by legitimate software directories using the official download URLs.</Distribution_Permissions>
+    <EULA>https://onemira.com/policies/terms-of-service</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
